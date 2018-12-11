@@ -1,0 +1,43 @@
+{
+  "idmessage": "27497",
+  "idsession": "362",
+  "time_stamp_system": "2017-01-20 15:28:30",
+  "NMEA_string": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+  "processed": "1",
+  "MMSI": "0000000197",
+  "AIS_version": "0",
+  "IMO_number": "xxxxxxxxxx",
+  "callSign": "FMHZ1",
+  "name": "FMH",
+  "type_of_ship_and_cargo": "20",
+  "bow_to_possition_unit": "86",
+  "stern_to_possition_unit": "29",
+  "port_to_possition_unit": "13",
+  "starboard_to_possitio_unit": "13",
+  "type_of_position_fixing_divice": "1",
+  "destination": "",
+  "last_static_draught": "0",
+  "DTE": "127"
+}
+[
+  {
+    "idmessage": "28346590",
+    "idsession": "362",
+    "time_stamp_system": "2017-01-20 15:33:14",
+    "NMEA_string": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "processed": "1",
+    "MMSI": "0000000197",
+    "navigation_status": "0",
+    "ROT": "0",
+    "SOG": "34.469911307105",
+    "position_accuracy": "0",
+    "longitude": 33.953693081641,
+    "latitude": 26.759713286484,
+    "COG": "32.353399262522",
+    "trueheading": "32",
+    "maneuver_indicator": "0",
+    "RAIM_flag": "0",
+    "diagnostic_information": "0",
+    "time_stamp_seconds_only": "14"
+  }
+]

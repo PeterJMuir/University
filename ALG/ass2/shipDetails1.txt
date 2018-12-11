@@ -1,0 +1,601 @@
+[{
+"idmessage":"27301","idsession":"362","time_stamp_system":"2017-01-20 14:51:14","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000001","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"ODLK1","name":"ODLXJ KWW","type_of_ship_and_cargo":"0","bow_to_possition_unit":"212","stern_to_possition_unit":"71","port_to_possition_unit":"22","starboard_to_possitio_unit":"22","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27302","idsession":"362","time_stamp_system":"2017-01-20 14:51:15","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000002","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"XJEH1","name":"XJE HJS","type_of_ship_and_cargo":"10","bow_to_possition_unit":"164","stern_to_possition_unit":"55","port_to_possition_unit":"19","starboard_to_possitio_unit":"19","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27303","idsession":"362","time_stamp_system":"2017-01-20 14:53:39","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000003","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"DTFH1","name":"DTFHH","type_of_ship_and_cargo":"20","bow_to_possition_unit":"149","stern_to_possition_unit":"50","port_to_possition_unit":"18","starboard_to_possitio_unit":"18","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27304","idsession":"362","time_stamp_system":"2017-01-20 14:53:40","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000004","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"YDGR1","name":"YDGRE","type_of_ship_and_cargo":"20","bow_to_possition_unit":"238","stern_to_possition_unit":"79","port_to_possition_unit":"24","starboard_to_possitio_unit":"24","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27305","idsession":"362","time_stamp_system":"2017-01-20 14:53:46","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000005","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"EBYQ1","name":"EBY QPT","type_of_ship_and_cargo":"40","bow_to_possition_unit":"78","stern_to_possition_unit":"26","port_to_possition_unit":"12","starboard_to_possitio_unit":"12","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27306","idsession":"362","time_stamp_system":"2017-01-20 14:53:46","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000006","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"WICT1","name":"WIC TJA","type_of_ship_and_cargo":"30","bow_to_possition_unit":"172","stern_to_possition_unit":"57","port_to_possition_unit":"19","starboard_to_possitio_unit":"19","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27307","idsession":"362","time_stamp_system":"2017-01-20 14:53:47","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000007","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"AMOF1","name":"AMOEL FPOUP","type_of_ship_and_cargo":"10","bow_to_possition_unit":"25","stern_to_possition_unit":"8","port_to_possition_unit":"7","starboard_to_possitio_unit":"7","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27308","idsession":"362","time_stamp_system":"2017-01-20 14:53:47","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000008","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"WXQK1","name":"WXQK","type_of_ship_and_cargo":"30","bow_to_possition_unit":"152","stern_to_possition_unit":"51","port_to_possition_unit":"18","starboard_to_possitio_unit":"18","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27309","idsession":"362","time_stamp_system":"2017-01-20 14:53:48","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000009","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"NBAL1","name":"NBAME LHI","type_of_ship_and_cargo":"20","bow_to_possition_unit":"207","stern_to_possition_unit":"69","port_to_possition_unit":"22","starboard_to_possitio_unit":"22","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27310","idsession":"362","time_stamp_system":"2017-01-20 14:53:49","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000010","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"OPRY1","name":"OPRYW","type_of_ship_and_cargo":"30","bow_to_possition_unit":"98","stern_to_possition_unit":"33","port_to_possition_unit":"14","starboard_to_possitio_unit":"14","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27311","idsession":"362","time_stamp_system":"2017-01-20 14:53:49","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000011","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"YVCB1","name":"YVC BDKQB","type_of_ship_and_cargo":"0","bow_to_possition_unit":"122","stern_to_possition_unit":"41","port_to_possition_unit":"15","starboard_to_possitio_unit":"15","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27312","idsession":"362","time_stamp_system":"2017-01-20 14:53:50","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000012","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"FFHJ1","name":"FFHL JUB","type_of_ship_and_cargo":"50","bow_to_possition_unit":"59","stern_to_possition_unit":"20","port_to_possition_unit":"10","starboard_to_possitio_unit":"10","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27313","idsession":"362","time_stamp_system":"2017-01-20 14:53:50","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000013","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"NNPB1","name":"NNPBK","type_of_ship_and_cargo":"50","bow_to_possition_unit":"162","stern_to_possition_unit":"54","port_to_possition_unit":"19","starboard_to_possitio_unit":"19","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27314","idsession":"362","time_stamp_system":"2017-01-20 14:53:51","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000014","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"RFCU1","name":"RFCUC UOR","type_of_ship_and_cargo":"50","bow_to_possition_unit":"87","stern_to_possition_unit":"29","port_to_possition_unit":"13","starboard_to_possitio_unit":"13","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27315","idsession":"362","time_stamp_system":"2017-01-20 14:53:51","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000015","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"BTXZ1","name":"BTX","type_of_ship_and_cargo":"50","bow_to_possition_unit":"227","stern_to_possition_unit":"76","port_to_possition_unit":"23","starboard_to_possitio_unit":"23","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27316","idsession":"362","time_stamp_system":"2017-01-20 14:55:56","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000016","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"XAUV1","name":"XAUV","type_of_ship_and_cargo":"10","bow_to_possition_unit":"136","stern_to_possition_unit":"45","port_to_possition_unit":"17","starboard_to_possitio_unit":"17","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27317","idsession":"362","time_stamp_system":"2017-01-20 14:55:56","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000017","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"WMIC1","name":"WMIH COIB","type_of_ship_and_cargo":"0","bow_to_possition_unit":"216","stern_to_possition_unit":"72","port_to_possition_unit":"23","starboard_to_possitio_unit":"23","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27318","idsession":"362","time_stamp_system":"2017-01-20 14:55:57","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000018","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"KYXA1","name":"KYXP AHFE","type_of_ship_and_cargo":"0","bow_to_possition_unit":"53","stern_to_possition_unit":"18","port_to_possition_unit":"10","starboard_to_possitio_unit":"10","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27319","idsession":"362","time_stamp_system":"2017-01-20 14:55:57","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000019","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"LHHJ1","name":"LHHU JSX","type_of_ship_and_cargo":"10","bow_to_possition_unit":"203","stern_to_possition_unit":"68","port_to_possition_unit":"22","starboard_to_possitio_unit":"22","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27320","idsession":"362","time_stamp_system":"2017-01-20 14:55:58","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000020","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"HFDZ1","name":"HFD","type_of_ship_and_cargo":"0","bow_to_possition_unit":"171","stern_to_possition_unit":"57","port_to_possition_unit":"19","starboard_to_possitio_unit":"19","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27321","idsession":"362","time_stamp_system":"2017-01-20 14:55:58","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000021","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"CDFZ1","name":"CDF","type_of_ship_and_cargo":"0","bow_to_possition_unit":"124","stern_to_possition_unit":"41","port_to_possition_unit":"16","starboard_to_possitio_unit":"16","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27322","idsession":"362","time_stamp_system":"2017-01-20 14:55:59","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000022","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"IPFB1","name":"IPFQE BNMX","type_of_ship_and_cargo":"40","bow_to_possition_unit":"196","stern_to_possition_unit":"65","port_to_possition_unit":"21","starboard_to_possitio_unit":"21","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27323","idsession":"362","time_stamp_system":"2017-01-20 14:55:59","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000023","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"UFSZ1","name":"UFS","type_of_ship_and_cargo":"0","bow_to_possition_unit":"194","stern_to_possition_unit":"65","port_to_possition_unit":"21","starboard_to_possitio_unit":"21","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27324","idsession":"362","time_stamp_system":"2017-01-20 14:56:00","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000024","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"WROV1","name":"WROP VNQG","type_of_ship_and_cargo":"40","bow_to_possition_unit":"206","stern_to_possition_unit":"69","port_to_possition_unit":"22","starboard_to_possitio_unit":"22","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27325","idsession":"362","time_stamp_system":"2017-01-20 14:56:00","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000025","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"SVMZ1","name":"SVM","type_of_ship_and_cargo":"10","bow_to_possition_unit":"144","stern_to_possition_unit":"48","port_to_possition_unit":"17","starboard_to_possitio_unit":"17","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27326","idsession":"362","time_stamp_system":"2017-01-20 14:56:01","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000026","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"OUBC1","name":"OUBX COFM","type_of_ship_and_cargo":"50","bow_to_possition_unit":"246","stern_to_possition_unit":"82","port_to_possition_unit":"25","starboard_to_possitio_unit":"25","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27327","idsession":"362","time_stamp_system":"2017-01-20 14:56:01","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000027","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"FEYJ1","name":"FEYBP JVEG","type_of_ship_and_cargo":"10","bow_to_possition_unit":"140","stern_to_possition_unit":"47","port_to_possition_unit":"17","starboard_to_possitio_unit":"17","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27328","idsession":"362","time_stamp_system":"2017-01-20 14:56:02","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000028","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"LBWZ1","name":"LBW","type_of_ship_and_cargo":"10","bow_to_possition_unit":"45","stern_to_possition_unit":"15","port_to_possition_unit":"9","starboard_to_possitio_unit":"9","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27329","idsession":"362","time_stamp_system":"2017-01-20 14:56:02","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000029","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"XUBU1","name":"XUBFY UNI","type_of_ship_and_cargo":"50","bow_to_possition_unit":"241","stern_to_possition_unit":"80","port_to_possition_unit":"24","starboard_to_possitio_unit":"24","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27330","idsession":"362","time_stamp_system":"2017-01-20 14:56:03","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000030","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"WEIT1","name":"WEIOJ TXC","type_of_ship_and_cargo":"50","bow_to_possition_unit":"25","stern_to_possition_unit":"8","port_to_possition_unit":"7","starboard_to_possitio_unit":"7","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27331","idsession":"362","time_stamp_system":"2017-01-20 14:56:03","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000031","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"FKOT1","name":"FKOHP TTUDF","type_of_ship_and_cargo":"40","bow_to_possition_unit":"27","stern_to_possition_unit":"9","port_to_possition_unit":"7","starboard_to_possitio_unit":"7","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27332","idsession":"362","time_stamp_system":"2017-01-20 14:56:04","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000032","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"MJNW1","name":"MJNMH WQD","type_of_ship_and_cargo":"10","bow_to_possition_unit":"154","stern_to_possition_unit":"51","port_to_possition_unit":"18","starboard_to_possitio_unit":"18","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27333","idsession":"362","time_stamp_system":"2017-01-20 14:56:04","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000033","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"JKHT1","name":"JKHG TOEO","type_of_ship_and_cargo":"10","bow_to_possition_unit":"131","stern_to_possition_unit":"44","port_to_possition_unit":"16","starboard_to_possitio_unit":"16","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27334","idsession":"362","time_stamp_system":"2017-01-20 14:56:05","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000034","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"CMRG1","name":"CMR GASGP","type_of_ship_and_cargo":"50","bow_to_possition_unit":"32","stern_to_possition_unit":"11","port_to_possition_unit":"8","starboard_to_possitio_unit":"8","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27335","idsession":"362","time_stamp_system":"2017-01-20 14:56:05","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000035","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"WTHZ1","name":"WTH","type_of_ship_and_cargo":"30","bow_to_possition_unit":"179","stern_to_possition_unit":"60","port_to_possition_unit":"20","starboard_to_possitio_unit":"20","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27336","idsession":"362","time_stamp_system":"2017-01-20 14:56:10","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000036","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"NAGM1","name":"NAGJ MAQ","type_of_ship_and_cargo":"40","bow_to_possition_unit":"242","stern_to_possition_unit":"81","port_to_possition_unit":"24","starboard_to_possitio_unit":"24","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27337","idsession":"362","time_stamp_system":"2017-01-20 14:56:11","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000037","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"AUVX1","name":"AUVEQ XPBG","type_of_ship_and_cargo":"0","bow_to_possition_unit":"109","stern_to_possition_unit":"36","port_to_possition_unit":"14","starboard_to_possitio_unit":"14","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27338","idsession":"362","time_stamp_system":"2017-01-20 14:56:11","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000038","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"RPTZ1","name":"RPT","type_of_ship_and_cargo":"30","bow_to_possition_unit":"185","stern_to_possition_unit":"62","port_to_possition_unit":"20","starboard_to_possitio_unit":"20","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27339","idsession":"362","time_stamp_system":"2017-01-20 14:56:12","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000039","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"JSKL1","name":"JSKYU LVOXW","type_of_ship_and_cargo":"10","bow_to_possition_unit":"85","stern_to_possition_unit":"28","port_to_possition_unit":"12","starboard_to_possitio_unit":"12","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27340","idsession":"362","time_stamp_system":"2017-01-20 14:56:12","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000040","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"VOEI1","name":"VOEL IAV","type_of_ship_and_cargo":"50","bow_to_possition_unit":"248","stern_to_possition_unit":"83","port_to_possition_unit":"25","starboard_to_possitio_unit":"25","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27341","idsession":"362","time_stamp_system":"2017-01-20 14:56:13","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000041","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"MDDQ1","name":"MDDCT QRE","type_of_ship_and_cargo":"10","bow_to_possition_unit":"178","stern_to_possition_unit":"59","port_to_possition_unit":"20","starboard_to_possitio_unit":"20","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27342","idsession":"362","time_stamp_system":"2017-01-20 14:56:13","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000042","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"QVFZ1","name":"QVF","type_of_ship_and_cargo":"10","bow_to_possition_unit":"210","stern_to_possition_unit":"70","port_to_possition_unit":"22","starboard_to_possitio_unit":"22","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27343","idsession":"362","time_stamp_system":"2017-01-20 14:58:39","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000043","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"TIQM1","name":"TIQM","type_of_ship_and_cargo":"20","bow_to_possition_unit":"14","stern_to_possition_unit":"5","port_to_possition_unit":"5","starboard_to_possitio_unit":"5","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27344","idsession":"362","time_stamp_system":"2017-01-20 14:58:40","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000044","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"XJPJ1","name":"XJPJE","type_of_ship_and_cargo":"20","bow_to_possition_unit":"79","stern_to_possition_unit":"26","port_to_possition_unit":"12","starboard_to_possitio_unit":"12","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27345","idsession":"362","time_stamp_system":"2017-01-20 14:58:40","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000045","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"APVW1","name":"APVWB","type_of_ship_and_cargo":"10","bow_to_possition_unit":"123","stern_to_possition_unit":"41","port_to_possition_unit":"16","starboard_to_possitio_unit":"16","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27346","idsession":"362","time_stamp_system":"2017-01-20 14:58:41","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000046","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"GSFZ1","name":"GSF","type_of_ship_and_cargo":"30","bow_to_possition_unit":"184","stern_to_possition_unit":"61","port_to_possition_unit":"20","starboard_to_possitio_unit":"20","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27347","idsession":"362","time_stamp_system":"2017-01-20 14:58:41","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000047","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"NUYZ1","name":"NUY","type_of_ship_and_cargo":"20","bow_to_possition_unit":"125","stern_to_possition_unit":"42","port_to_possition_unit":"16","starboard_to_possitio_unit":"16","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27348","idsession":"362","time_stamp_system":"2017-01-20 14:59:06","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000048","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"HNRF1","name":"HNRFS","type_of_ship_and_cargo":"30","bow_to_possition_unit":"55","stern_to_possition_unit":"18","port_to_possition_unit":"10","starboard_to_possitio_unit":"10","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27349","idsession":"362","time_stamp_system":"2017-01-20 14:59:06","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000049","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"WUFR1","name":"WUFRM","type_of_ship_and_cargo":"30","bow_to_possition_unit":"104","stern_to_possition_unit":"35","port_to_possition_unit":"14","starboard_to_possitio_unit":"14","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27350","idsession":"362","time_stamp_system":"2017-01-20 14:59:07","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000050","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"ITJA1","name":"ITJBH AJYX","type_of_ship_and_cargo":"40","bow_to_possition_unit":"38","stern_to_possition_unit":"13","port_to_possition_unit":"8","starboard_to_possitio_unit":"8","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27351","idsession":"362","time_stamp_system":"2017-01-20 14:59:07","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000051","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"AYAN1","name":"AYA NNM","type_of_ship_and_cargo":"40","bow_to_possition_unit":"36","stern_to_possition_unit":"12","port_to_possition_unit":"8","starboard_to_possitio_unit":"8","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27352","idsession":"362","time_stamp_system":"2017-01-20 14:59:09","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000052","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"YSLQ1","name":"YSLQ","type_of_ship_and_cargo":"30","bow_to_possition_unit":"121","stern_to_possition_unit":"40","port_to_possition_unit":"15","starboard_to_possitio_unit":"15","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27353","idsession":"362","time_stamp_system":"2017-01-20 14:59:09","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000053","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"NCNN1","name":"NCNC NXQR","type_of_ship_and_cargo":"50","bow_to_possition_unit":"23","stern_to_possition_unit":"8","port_to_possition_unit":"6","starboard_to_possitio_unit":"6","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27354","idsession":"362","time_stamp_system":"2017-01-20 14:59:13","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000054","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"TJSU1","name":"TJSPK UDGP","type_of_ship_and_cargo":"30","bow_to_possition_unit":"140","stern_to_possition_unit":"47","port_to_possition_unit":"17","starboard_to_possitio_unit":"17","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27355","idsession":"362","time_stamp_system":"2017-01-20 14:59:14","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000055","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"KXBU1","name":"KXBQP UEQG","type_of_ship_and_cargo":"0","bow_to_possition_unit":"92","stern_to_possition_unit":"31","port_to_possition_unit":"13","starboard_to_possitio_unit":"13","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27356","idsession":"362","time_stamp_system":"2017-01-20 14:59:14","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000056","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"RXQD1","name":"RXQD","type_of_ship_and_cargo":"30","bow_to_possition_unit":"104","stern_to_possition_unit":"35","port_to_possition_unit":"14","starboard_to_possitio_unit":"14","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27357","idsession":"362","time_stamp_system":"2017-01-20 14:59:15","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000057","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"NROM1","name":"NROME","type_of_ship_and_cargo":"40","bow_to_possition_unit":"84","stern_to_possition_unit":"28","port_to_possition_unit":"12","starboard_to_possitio_unit":"12","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27358","idsession":"362","time_stamp_system":"2017-01-20 14:59:15","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000058","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"NIKM1","name":"NIKMP","type_of_ship_and_cargo":"40","bow_to_possition_unit":"199","stern_to_possition_unit":"66","port_to_possition_unit":"21","starboard_to_possitio_unit":"21","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27359","idsession":"362","time_stamp_system":"2017-01-20 14:59:16","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000059","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"TIHT1","name":"TIHT","type_of_ship_and_cargo":"10","bow_to_possition_unit":"113","stern_to_possition_unit":"38","port_to_possition_unit":"15","starboard_to_possitio_unit":"15","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27360","idsession":"362","time_stamp_system":"2017-01-20 14:59:16","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000060","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"ATAI1","name":"ATA IDLKS","type_of_ship_and_cargo":"10","bow_to_possition_unit":"179","stern_to_possition_unit":"60","port_to_possition_unit":"20","starboard_to_possitio_unit":"20","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27361","idsession":"362","time_stamp_system":"2017-01-20 14:59:17","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000061","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"NHWZ1","name":"NHW","type_of_ship_and_cargo":"30","bow_to_possition_unit":"238","stern_to_possition_unit":"79","port_to_possition_unit":"24","starboard_to_possitio_unit":"24","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27362","idsession":"362","time_stamp_system":"2017-01-20 14:59:17","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000062","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"VFFV1","name":"VFFVK","type_of_ship_and_cargo":"40","bow_to_possition_unit":"129","stern_to_possition_unit":"43","port_to_possition_unit":"16","starboard_to_possitio_unit":"16","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27363","idsession":"362","time_stamp_system":"2017-01-20 14:59:18","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000063","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"WVMM1","name":"WVMLT MKH","type_of_ship_and_cargo":"50","bow_to_possition_unit":"118","stern_to_possition_unit":"39","port_to_possition_unit":"15","starboard_to_possitio_unit":"15","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27364","idsession":"362","time_stamp_system":"2017-01-20 14:59:18","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000064","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"SJDZ1","name":"SJD","type_of_ship_and_cargo":"40","bow_to_possition_unit":"78","stern_to_possition_unit":"26","port_to_possition_unit":"12","starboard_to_possitio_unit":"12","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27365","idsession":"362","time_stamp_system":"2017-01-20 14:59:19","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000065","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"EPOC1","name":"EPOCN","type_of_ship_and_cargo":"20","bow_to_possition_unit":"151","stern_to_possition_unit":"50","port_to_possition_unit":"18","starboard_to_possitio_unit":"18","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27366","idsession":"362","time_stamp_system":"2017-01-20 14:59:19","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000066","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"KMND1","name":"KMND","type_of_ship_and_cargo":"40","bow_to_possition_unit":"203","stern_to_possition_unit":"68","port_to_possition_unit":"22","starboard_to_possitio_unit":"22","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27367","idsession":"362","time_stamp_system":"2017-01-20 14:59:24","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000067","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"YDVE1","name":"YDV EYDA","type_of_ship_and_cargo":"30","bow_to_possition_unit":"65","stern_to_possition_unit":"22","port_to_possition_unit":"11","starboard_to_possitio_unit":"11","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27368","idsession":"362","time_stamp_system":"2017-01-20 14:59:25","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000068","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"EXSH1","name":"EXSIH HDKL","type_of_ship_and_cargo":"0","bow_to_possition_unit":"195","stern_to_possition_unit":"65","port_to_possition_unit":"21","starboard_to_possitio_unit":"21","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27369","idsession":"362","time_stamp_system":"2017-01-20 14:59:25","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000069","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"NBKQ1","name":"NBKLP QIDT","type_of_ship_and_cargo":"0","bow_to_possition_unit":"176","stern_to_possition_unit":"59","port_to_possition_unit":"20","starboard_to_possitio_unit":"20","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27370","idsession":"362","time_stamp_system":"2017-01-20 14:59:26","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000070","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"TFVP1","name":"TFVP","type_of_ship_and_cargo":"50","bow_to_possition_unit":"70","stern_to_possition_unit":"23","port_to_possition_unit":"11","starboard_to_possitio_unit":"11","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27371","idsession":"362","time_stamp_system":"2017-01-20 14:59:26","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000071","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"YTGR1","name":"YTGLM RIBR","type_of_ship_and_cargo":"30","bow_to_possition_unit":"44","stern_to_possition_unit":"15","port_to_possition_unit":"9","starboard_to_possitio_unit":"9","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27372","idsession":"362","time_stamp_system":"2017-01-20 14:59:28","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000072","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"PQLS1","name":"PQL SBW","type_of_ship_and_cargo":"30","bow_to_possition_unit":"175","stern_to_possition_unit":"58","port_to_possition_unit":"20","starboard_to_possitio_unit":"20","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27373","idsession":"362","time_stamp_system":"2017-01-20 15:01:27","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000073","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"NHWZ2","name":"NHW","type_of_ship_and_cargo":"40","bow_to_possition_unit":"18","stern_to_possition_unit":"6","port_to_possition_unit":"6","starboard_to_possitio_unit":"6","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27374","idsession":"362","time_stamp_system":"2017-01-20 15:01:31","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000074","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"QWTI1","name":"QWT IHJ","type_of_ship_and_cargo":"40","bow_to_possition_unit":"53","stern_to_possition_unit":"18","port_to_possition_unit":"10","starboard_to_possitio_unit":"10","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27375","idsession":"362","time_stamp_system":"2017-01-20 15:01:31","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000075","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"PYKL1","name":"PYKQT LFXJX","type_of_ship_and_cargo":"40","bow_to_possition_unit":"230","stern_to_possition_unit":"77","port_to_possition_unit":"24","starboard_to_possitio_unit":"24","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27376","idsession":"362","time_stamp_system":"2017-01-20 15:01:32","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000076","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"GTVC1","name":"GTVMS CUABJ","type_of_ship_and_cargo":"40","bow_to_possition_unit":"196","stern_to_possition_unit":"65","port_to_possition_unit":"21","starboard_to_possitio_unit":"21","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27377","idsession":"362","time_stamp_system":"2017-01-20 15:01:32","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000077","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"KRKN1","name":"KRKNC","type_of_ship_and_cargo":"0","bow_to_possition_unit":"160","stern_to_possition_unit":"53","port_to_possition_unit":"18","starboard_to_possitio_unit":"18","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27378","idsession":"362","time_stamp_system":"2017-01-20 15:01:34","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000078","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"UYLT1","name":"UYL TLR","type_of_ship_and_cargo":"20","bow_to_possition_unit":"109","stern_to_possition_unit":"36","port_to_possition_unit":"14","starboard_to_possitio_unit":"14","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27379","idsession":"362","time_stamp_system":"2017-01-20 15:03:34","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000079","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"TVBL1","name":"TVBTM LUP","type_of_ship_and_cargo":"30","bow_to_possition_unit":"250","stern_to_possition_unit":"83","port_to_possition_unit":"25","starboard_to_possitio_unit":"25","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27380","idsession":"362","time_stamp_system":"2017-01-20 15:03:34","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000080","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"XHSV1","name":"XHSVT","type_of_ship_and_cargo":"0","bow_to_possition_unit":"83","stern_to_possition_unit":"28","port_to_possition_unit":"12","starboard_to_possitio_unit":"12","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27381","idsession":"362","time_stamp_system":"2017-01-20 15:03:35","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000081","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"VFTX1","name":"VFTKJ XUSBY","type_of_ship_and_cargo":"30","bow_to_possition_unit":"166","stern_to_possition_unit":"55","port_to_possition_unit":"19","starboard_to_possitio_unit":"19","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27382","idsession":"362","time_stamp_system":"2017-01-20 15:03:35","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000082","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"LELA1","name":"LELGC AUA","type_of_ship_and_cargo":"20","bow_to_possition_unit":"187","stern_to_possition_unit":"62","port_to_possition_unit":"20","starboard_to_possitio_unit":"20","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27383","idsession":"362","time_stamp_system":"2017-01-20 15:03:36","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000083","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"DWEF1","name":"DWEFE","type_of_ship_and_cargo":"40","bow_to_possition_unit":"207","stern_to_possition_unit":"69","port_to_possition_unit":"22","starboard_to_possitio_unit":"22","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27384","idsession":"362","time_stamp_system":"2017-01-20 15:03:36","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000084","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"DHHZ1","name":"DHH","type_of_ship_and_cargo":"10","bow_to_possition_unit":"193","stern_to_possition_unit":"64","port_to_possition_unit":"21","starboard_to_possitio_unit":"21","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27385","idsession":"362","time_stamp_system":"2017-01-20 15:03:37","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000085","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"YXAV1","name":"YXAV","type_of_ship_and_cargo":"40","bow_to_possition_unit":"106","stern_to_possition_unit":"35","port_to_possition_unit":"14","starboard_to_possitio_unit":"14","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27386","idsession":"362","time_stamp_system":"2017-01-20 15:03:37","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000086","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"HEGA1","name":"HEGA","type_of_ship_and_cargo":"20","bow_to_possition_unit":"233","stern_to_possition_unit":"78","port_to_possition_unit":"24","starboard_to_possitio_unit":"24","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27387","idsession":"362","time_stamp_system":"2017-01-20 15:03:38","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000087","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"WECV1","name":"WEC VLNT","type_of_ship_and_cargo":"40","bow_to_possition_unit":"92","stern_to_possition_unit":"31","port_to_possition_unit":"13","starboard_to_possitio_unit":"13","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27388","idsession":"362","time_stamp_system":"2017-01-20 15:03:38","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000088","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"JMUX1","name":"JMUXJ","type_of_ship_and_cargo":"30","bow_to_possition_unit":"139","stern_to_possition_unit":"46","port_to_possition_unit":"17","starboard_to_possitio_unit":"17","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27389","idsession":"362","time_stamp_system":"2017-01-20 15:03:39","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000089","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"GIHG1","name":"GIHP GRV","type_of_ship_and_cargo":"20","bow_to_possition_unit":"232","stern_to_possition_unit":"77","port_to_possition_unit":"24","starboard_to_possitio_unit":"24","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27390","idsession":"362","time_stamp_system":"2017-01-20 15:03:39","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000090","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"RIKE1","name":"RIKJ ESD","type_of_ship_and_cargo":"10","bow_to_possition_unit":"75","stern_to_possition_unit":"25","port_to_possition_unit":"12","starboard_to_possitio_unit":"12","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27391","idsession":"362","time_stamp_system":"2017-01-20 15:03:40","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000091","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"APBX1","name":"APBX","type_of_ship_and_cargo":"10","bow_to_possition_unit":"235","stern_to_possition_unit":"78","port_to_possition_unit":"24","starboard_to_possitio_unit":"24","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27392","idsession":"362","time_stamp_system":"2017-01-20 15:03:40","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000092","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"CTIQ1","name":"CTIG QYCF","type_of_ship_and_cargo":"10","bow_to_possition_unit":"27","stern_to_possition_unit":"9","port_to_possition_unit":"7","starboard_to_possitio_unit":"7","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27393","idsession":"362","time_stamp_system":"2017-01-20 15:03:41","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000093","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"DRHZ1","name":"DRH","type_of_ship_and_cargo":"0","bow_to_possition_unit":"178","stern_to_possition_unit":"59","port_to_possition_unit":"20","starboard_to_possitio_unit":"20","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27394","idsession":"362","time_stamp_system":"2017-01-20 15:03:41","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000094","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"WUSK1","name":"WUSKP","type_of_ship_and_cargo":"40","bow_to_possition_unit":"85","stern_to_possition_unit":"28","port_to_possition_unit":"12","starboard_to_possitio_unit":"12","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27395","idsession":"362","time_stamp_system":"2017-01-20 15:03:42","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000095","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"LMLZ1","name":"LML","type_of_ship_and_cargo":"0","bow_to_possition_unit":"113","stern_to_possition_unit":"38","port_to_possition_unit":"15","starboard_to_possitio_unit":"15","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27396","idsession":"362","time_stamp_system":"2017-01-20 15:03:42","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000096","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"TKVI1","name":"TKVIA","type_of_ship_and_cargo":"0","bow_to_possition_unit":"45","stern_to_possition_unit":"15","port_to_possition_unit":"9","starboard_to_possitio_unit":"9","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27397","idsession":"362","time_stamp_system":"2017-01-20 15:03:43","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000097","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"DPRL1","name":"DPRLE","type_of_ship_and_cargo":"10","bow_to_possition_unit":"187","stern_to_possition_unit":"62","port_to_possition_unit":"20","starboard_to_possitio_unit":"20","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27398","idsession":"362","time_stamp_system":"2017-01-20 15:03:43","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000098","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"PUSZ1","name":"PUS","type_of_ship_and_cargo":"30","bow_to_possition_unit":"96","stern_to_possition_unit":"32","port_to_possition_unit":"13","starboard_to_possitio_unit":"13","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27399","idsession":"362","time_stamp_system":"2017-01-20 15:05:42","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000099","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"GLUP1","name":"GLUT PKFFH","type_of_ship_and_cargo":"10","bow_to_possition_unit":"99","stern_to_possition_unit":"33","port_to_possition_unit":"14","starboard_to_possitio_unit":"14","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27400","idsession":"362","time_stamp_system":"2017-01-20 15:05:43","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000100","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"TXJR1","name":"TXJRK","type_of_ship_and_cargo":"40","bow_to_possition_unit":"217","stern_to_possition_unit":"72","port_to_possition_unit":"23","starboard_to_possitio_unit":"23","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27401","idsession":"362","time_stamp_system":"2017-01-20 15:05:43","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000101","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"FOVI1","name":"FOVM IAUK","type_of_ship_and_cargo":"0","bow_to_possition_unit":"159","stern_to_possition_unit":"53","port_to_possition_unit":"18","starboard_to_possitio_unit":"18","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27402","idsession":"362","time_stamp_system":"2017-01-20 15:05:44","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000102","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"GLIZ1","name":"GLI","type_of_ship_and_cargo":"50","bow_to_possition_unit":"12","stern_to_possition_unit":"4","port_to_possition_unit":"5","starboard_to_possitio_unit":"5","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27403","idsession":"362","time_stamp_system":"2017-01-20 15:05:44","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000103","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"FYSV1","name":"FYSDI VRKII","type_of_ship_and_cargo":"0","bow_to_possition_unit":"59","stern_to_possition_unit":"20","port_to_possition_unit":"10","starboard_to_possitio_unit":"10","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27404","idsession":"362","time_stamp_system":"2017-01-20 15:05:45","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000104","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"WEJI1","name":"WEJI","type_of_ship_and_cargo":"50","bow_to_possition_unit":"97","stern_to_possition_unit":"32","port_to_possition_unit":"13","starboard_to_possitio_unit":"13","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27405","idsession":"362","time_stamp_system":"2017-01-20 15:05:45","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000105","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"KPGI1","name":"KPGPK IYCJ","type_of_ship_and_cargo":"30","bow_to_possition_unit":"188","stern_to_possition_unit":"63","port_to_possition_unit":"21","starboard_to_possitio_unit":"21","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27406","idsession":"362","time_stamp_system":"2017-01-20 15:07:43","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000106","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"MACZ1","name":"MAC","type_of_ship_and_cargo":"10","bow_to_possition_unit":"53","stern_to_possition_unit":"18","port_to_possition_unit":"10","starboard_to_possitio_unit":"10","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27407","idsession":"362","time_stamp_system":"2017-01-20 15:07:44","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000107","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"NHEZ1","name":"NHE","type_of_ship_and_cargo":"40","bow_to_possition_unit":"99","stern_to_possition_unit":"33","port_to_possition_unit":"14","starboard_to_possitio_unit":"14","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27408","idsession":"362","time_stamp_system":"2017-01-20 15:09:41","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000108","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"BANU1","name":"BANU","type_of_ship_and_cargo":"30","bow_to_possition_unit":"238","stern_to_possition_unit":"79","port_to_possition_unit":"24","starboard_to_possitio_unit":"24","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27409","idsession":"362","time_stamp_system":"2017-01-20 15:09:42","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000109","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"PRLX1","name":"PRLXB","type_of_ship_and_cargo":"10","bow_to_possition_unit":"212","stern_to_possition_unit":"71","port_to_possition_unit":"22","starboard_to_possitio_unit":"22","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27410","idsession":"362","time_stamp_system":"2017-01-20 15:09:42","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000110","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"BNLF1","name":"BNLFO","type_of_ship_and_cargo":"30","bow_to_possition_unit":"146","stern_to_possition_unit":"49","port_to_possition_unit":"17","starboard_to_possitio_unit":"17","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27411","idsession":"362","time_stamp_system":"2017-01-20 15:09:43","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000111","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"IXRH1","name":"IXRU HOU","type_of_ship_and_cargo":"30","bow_to_possition_unit":"125","stern_to_possition_unit":"42","port_to_possition_unit":"16","starboard_to_possitio_unit":"16","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27412","idsession":"362","time_stamp_system":"2017-01-20 15:09:45","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000112","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"NJLA1","name":"NJLAF","type_of_ship_and_cargo":"0","bow_to_possition_unit":"224","stern_to_possition_unit":"75","port_to_possition_unit":"23","starboard_to_possitio_unit":"23","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27413","idsession":"362","time_stamp_system":"2017-01-20 15:11:42","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000113","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"AYKN1","name":"AYKN","type_of_ship_and_cargo":"0","bow_to_possition_unit":"20","stern_to_possition_unit":"7","port_to_possition_unit":"6","starboard_to_possitio_unit":"6","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27414","idsession":"362","time_stamp_system":"2017-01-20 15:11:43","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000114","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"BOJN1","name":"BOJD NPM","type_of_ship_and_cargo":"40","bow_to_possition_unit":"191","stern_to_possition_unit":"64","port_to_possition_unit":"21","starboard_to_possitio_unit":"21","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27415","idsession":"362","time_stamp_system":"2017-01-20 15:11:43","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000115","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"CDOS1","name":"CDOSM","type_of_ship_and_cargo":"30","bow_to_possition_unit":"37","stern_to_possition_unit":"12","port_to_possition_unit":"8","starboard_to_possitio_unit":"8","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27416","idsession":"362","time_stamp_system":"2017-01-20 15:11:44","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000116","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"XAQX1","name":"XAQ XJPT","type_of_ship_and_cargo":"10","bow_to_possition_unit":"158","stern_to_possition_unit":"53","port_to_possition_unit":"18","starboard_to_possitio_unit":"18","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27417","idsession":"362","time_stamp_system":"2017-01-20 15:14:18","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000117","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"OGSI1","name":"OGSI","type_of_ship_and_cargo":"50","bow_to_possition_unit":"251","stern_to_possition_unit":"84","port_to_possition_unit":"25","starboard_to_possitio_unit":"25","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27418","idsession":"362","time_stamp_system":"2017-01-20 15:14:18","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000118","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"LVCZ1","name":"LVC","type_of_ship_and_cargo":"50","bow_to_possition_unit":"197","stern_to_possition_unit":"66","port_to_possition_unit":"21","starboard_to_possitio_unit":"21","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27419","idsession":"362","time_stamp_system":"2017-01-20 15:14:21","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000119","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"LTKH1","name":"LTK HQJW","type_of_ship_and_cargo":"0","bow_to_possition_unit":"223","stern_to_possition_unit":"74","port_to_possition_unit":"23","starboard_to_possitio_unit":"23","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27420","idsession":"362","time_stamp_system":"2017-01-20 15:14:21","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000120","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"TMYU1","name":"TMY URLIS","type_of_ship_and_cargo":"20","bow_to_possition_unit":"88","stern_to_possition_unit":"29","port_to_possition_unit":"13","starboard_to_possitio_unit":"13","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27421","idsession":"362","time_stamp_system":"2017-01-20 15:14:22","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000121","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"YHNX1","name":"YHNXB","type_of_ship_and_cargo":"10","bow_to_possition_unit":"146","stern_to_possition_unit":"49","port_to_possition_unit":"17","starboard_to_possitio_unit":"17","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27422","idsession":"362","time_stamp_system":"2017-01-20 15:14:22","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000122","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"FYEJ1","name":"FYEV JEV","type_of_ship_and_cargo":"50","bow_to_possition_unit":"248","stern_to_possition_unit":"83","port_to_possition_unit":"25","starboard_to_possitio_unit":"25","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27423","idsession":"362","time_stamp_system":"2017-01-20 15:14:23","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000123","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"HDYM1","name":"HDY MWEEB","type_of_ship_and_cargo":"0","bow_to_possition_unit":"28","stern_to_possition_unit":"9","port_to_possition_unit":"7","starboard_to_possitio_unit":"7","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27424","idsession":"362","time_stamp_system":"2017-01-20 15:14:23","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000124","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"FAEW1","name":"FAEXS WYYNM","type_of_ship_and_cargo":"20","bow_to_possition_unit":"86","stern_to_possition_unit":"29","port_to_possition_unit":"13","starboard_to_possitio_unit":"13","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27425","idsession":"362","time_stamp_system":"2017-01-20 15:16:22","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000125","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"JMSH1","name":"JMS HYC","type_of_ship_and_cargo":"20","bow_to_possition_unit":"159","stern_to_possition_unit":"53","port_to_possition_unit":"18","starboard_to_possitio_unit":"18","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27426","idsession":"362","time_stamp_system":"2017-01-20 15:18:25","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000126","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"IKAV1","name":"IKAV","type_of_ship_and_cargo":"30","bow_to_possition_unit":"136","stern_to_possition_unit":"45","port_to_possition_unit":"17","starboard_to_possitio_unit":"17","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27427","idsession":"362","time_stamp_system":"2017-01-20 15:18:26","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000127","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"DJKB1","name":"DJKB","type_of_ship_and_cargo":"30","bow_to_possition_unit":"76","stern_to_possition_unit":"25","port_to_possition_unit":"12","starboard_to_possitio_unit":"12","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27428","idsession":"362","time_stamp_system":"2017-01-20 15:18:26","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000128","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"EYSL1","name":"EYSC LRBE","type_of_ship_and_cargo":"10","bow_to_possition_unit":"141","stern_to_possition_unit":"47","port_to_possition_unit":"17","starboard_to_possitio_unit":"17","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27429","idsession":"362","time_stamp_system":"2017-01-20 15:18:27","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000129","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"MYRU1","name":"MYRU","type_of_ship_and_cargo":"0","bow_to_possition_unit":"243","stern_to_possition_unit":"81","port_to_possition_unit":"25","starboard_to_possitio_unit":"25","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27430","idsession":"362","time_stamp_system":"2017-01-20 15:18:27","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000130","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"DWMP1","name":"DWMQ PPRC","type_of_ship_and_cargo":"0","bow_to_possition_unit":"74","stern_to_possition_unit":"25","port_to_possition_unit":"12","starboard_to_possitio_unit":"12","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27431","idsession":"362","time_stamp_system":"2017-01-20 15:18:58","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000131","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"XVYZ1","name":"XVY","type_of_ship_and_cargo":"50","bow_to_possition_unit":"49","stern_to_possition_unit":"16","port_to_possition_unit":"9","starboard_to_possitio_unit":"9","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27432","idsession":"362","time_stamp_system":"2017-01-20 15:18:58","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000132","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"ISTR1","name":"IST REU","type_of_ship_and_cargo":"30","bow_to_possition_unit":"104","stern_to_possition_unit":"35","port_to_possition_unit":"14","starboard_to_possitio_unit":"14","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27433","idsession":"362","time_stamp_system":"2017-01-20 15:18:59","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000133","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"XUXC1","name":"XUXCL","type_of_ship_and_cargo":"0","bow_to_possition_unit":"226","stern_to_possition_unit":"75","port_to_possition_unit":"23","starboard_to_possitio_unit":"23","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27434","idsession":"362","time_stamp_system":"2017-01-20 15:18:59","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000134","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"WOLK1","name":"WOLKX","type_of_ship_and_cargo":"30","bow_to_possition_unit":"196","stern_to_possition_unit":"65","port_to_possition_unit":"21","starboard_to_possitio_unit":"21","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27435","idsession":"362","time_stamp_system":"2017-01-20 15:20:59","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000135","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"IUEC1","name":"IUE CQMAX","type_of_ship_and_cargo":"30","bow_to_possition_unit":"245","stern_to_possition_unit":"82","port_to_possition_unit":"25","starboard_to_possitio_unit":"25","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27436","idsession":"362","time_stamp_system":"2017-01-20 15:20:59","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000136","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"XLFG1","name":"XLFA GRBV","type_of_ship_and_cargo":"0","bow_to_possition_unit":"134","stern_to_possition_unit":"45","port_to_possition_unit":"16","starboard_to_possitio_unit":"16","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27437","idsession":"362","time_stamp_system":"2017-01-20 15:21:00","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000137","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"CQDX1","name":"CQDXD","type_of_ship_and_cargo":"10","bow_to_possition_unit":"234","stern_to_possition_unit":"78","port_to_possition_unit":"24","starboard_to_possitio_unit":"24","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27438","idsession":"362","time_stamp_system":"2017-01-20 15:23:27","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000138","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"ALVN1","name":"ALV NTVAQ","type_of_ship_and_cargo":"50","bow_to_possition_unit":"59","stern_to_possition_unit":"20","port_to_possition_unit":"10","starboard_to_possitio_unit":"10","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27439","idsession":"362","time_stamp_system":"2017-01-20 15:24:33","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000139","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"FJES1","name":"FJEP SYWAW","type_of_ship_and_cargo":"30","bow_to_possition_unit":"235","stern_to_possition_unit":"78","port_to_possition_unit":"24","starboard_to_possitio_unit":"24","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27440","idsession":"362","time_stamp_system":"2017-01-20 15:25:05","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000140","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"JDDO1","name":"JDDS OKMQG","type_of_ship_and_cargo":"0","bow_to_possition_unit":"51","stern_to_possition_unit":"17","port_to_possition_unit":"9","starboard_to_possitio_unit":"9","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27441","idsession":"362","time_stamp_system":"2017-01-20 15:25:05","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000141","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"YPKV1","name":"YPKV","type_of_ship_and_cargo":"20","bow_to_possition_unit":"83","stern_to_possition_unit":"28","port_to_possition_unit":"12","starboard_to_possitio_unit":"12","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27442","idsession":"362","time_stamp_system":"2017-01-20 15:25:06","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000142","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"MBGJ1","name":"MBG JNAMJ","type_of_ship_and_cargo":"30","bow_to_possition_unit":"12","stern_to_possition_unit":"4","port_to_possition_unit":"5","starboard_to_possitio_unit":"5","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27443","idsession":"362","time_stamp_system":"2017-01-20 15:25:06","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000143","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"BWLS1","name":"BWLS","type_of_ship_and_cargo":"40","bow_to_possition_unit":"128","stern_to_possition_unit":"43","port_to_possition_unit":"16","starboard_to_possitio_unit":"16","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27444","idsession":"362","time_stamp_system":"2017-01-20 15:25:07","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000144","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"KBDI1","name":"KBD IFGP","type_of_ship_and_cargo":"30","bow_to_possition_unit":"182","stern_to_possition_unit":"61","port_to_possition_unit":"20","starboard_to_possitio_unit":"20","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27445","idsession":"362","time_stamp_system":"2017-01-20 15:25:07","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000145","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"JIGC1","name":"JIG CQJ","type_of_ship_and_cargo":"50","bow_to_possition_unit":"112","stern_to_possition_unit":"37","port_to_possition_unit":"15","starboard_to_possitio_unit":"15","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27446","idsession":"362","time_stamp_system":"2017-01-20 15:25:08","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000146","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"AEMZ1","name":"AEM","type_of_ship_and_cargo":"20","bow_to_possition_unit":"229","stern_to_possition_unit":"76","port_to_possition_unit":"24","starboard_to_possitio_unit":"24","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27447","idsession":"362","time_stamp_system":"2017-01-20 15:25:08","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000147","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"CCAR1","name":"CCAXP RIYGN","type_of_ship_and_cargo":"20","bow_to_possition_unit":"48","stern_to_possition_unit":"16","port_to_possition_unit":"9","starboard_to_possitio_unit":"9","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27448","idsession":"362","time_stamp_system":"2017-01-20 15:25:45","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000148","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"QHRC1","name":"QHRT CSQOF","type_of_ship_and_cargo":"10","bow_to_possition_unit":"71","stern_to_possition_unit":"24","port_to_possition_unit":"11","starboard_to_possitio_unit":"11","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27449","idsession":"362","time_stamp_system":"2017-01-20 15:25:46","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000149","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"FJTC1","name":"FJTOP CQT","type_of_ship_and_cargo":"30","bow_to_possition_unit":"109","stern_to_possition_unit":"36","port_to_possition_unit":"14","starboard_to_possitio_unit":"14","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27450","idsession":"362","time_stamp_system":"2017-01-20 15:25:46","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000150","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"ACIZ1","name":"ACI","type_of_ship_and_cargo":"50","bow_to_possition_unit":"243","stern_to_possition_unit":"81","port_to_possition_unit":"25","starboard_to_possitio_unit":"25","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27451","idsession":"362","time_stamp_system":"2017-01-20 15:25:47","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000151","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"VSBD1","name":"VSBD","type_of_ship_and_cargo":"40","bow_to_possition_unit":"153","stern_to_possition_unit":"51","port_to_possition_unit":"18","starboard_to_possitio_unit":"18","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27452","idsession":"362","time_stamp_system":"2017-01-20 15:25:47","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000152","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"RGHX1","name":"RGHY XGBAH","type_of_ship_and_cargo":"0","bow_to_possition_unit":"48","stern_to_possition_unit":"16","port_to_possition_unit":"9","starboard_to_possitio_unit":"9","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27453","idsession":"362","time_stamp_system":"2017-01-20 15:25:48","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000153","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"UVWZ1","name":"UVW","type_of_ship_and_cargo":"20","bow_to_possition_unit":"97","stern_to_possition_unit":"32","port_to_possition_unit":"13","starboard_to_possitio_unit":"13","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27454","idsession":"362","time_stamp_system":"2017-01-20 15:25:54","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000154","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"AINA1","name":"AINQB ARUM","type_of_ship_and_cargo":"20","bow_to_possition_unit":"29","stern_to_possition_unit":"10","port_to_possition_unit":"7","starboard_to_possitio_unit":"7","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27455","idsession":"362","time_stamp_system":"2017-01-20 15:25:55","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000155","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"OTKF1","name":"OTKFU","type_of_ship_and_cargo":"30","bow_to_possition_unit":"113","stern_to_possition_unit":"38","port_to_possition_unit":"15","starboard_to_possitio_unit":"15","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27456","idsession":"362","time_stamp_system":"2017-01-20 15:25:59","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000156","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"AIMR1","name":"AIMA RUFO","type_of_ship_and_cargo":"0","bow_to_possition_unit":"80","stern_to_possition_unit":"27","port_to_possition_unit":"12","starboard_to_possitio_unit":"12","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27457","idsession":"362","time_stamp_system":"2017-01-20 15:25:59","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000157","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"NVKO1","name":"NVKOE","type_of_ship_and_cargo":"50","bow_to_possition_unit":"36","stern_to_possition_unit":"12","port_to_possition_unit":"8","starboard_to_possitio_unit":"8","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27458","idsession":"362","time_stamp_system":"2017-01-20 15:26:00","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000158","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"POLZ1","name":"POL","type_of_ship_and_cargo":"20","bow_to_possition_unit":"29","stern_to_possition_unit":"10","port_to_possition_unit":"7","starboard_to_possitio_unit":"7","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27459","idsession":"362","time_stamp_system":"2017-01-20 15:26:00","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000159","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"FRGH1","name":"FRGI HVGYM","type_of_ship_and_cargo":"20","bow_to_possition_unit":"235","stern_to_possition_unit":"78","port_to_possition_unit":"24","starboard_to_possitio_unit":"24","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27460","idsession":"362","time_stamp_system":"2017-01-20 15:26:01","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000160","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"GEJZ1","name":"GEJ","type_of_ship_and_cargo":"30","bow_to_possition_unit":"188","stern_to_possition_unit":"63","port_to_possition_unit":"20","starboard_to_possitio_unit":"20","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27461","idsession":"362","time_stamp_system":"2017-01-20 15:26:01","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000161","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"OBWL1","name":"OBWX LMYA","type_of_ship_and_cargo":"10","bow_to_possition_unit":"114","stern_to_possition_unit":"38","port_to_possition_unit":"15","starboard_to_possitio_unit":"15","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27462","idsession":"362","time_stamp_system":"2017-01-20 15:28:11","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000162","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"DNGK1","name":"DNGK","type_of_ship_and_cargo":"10","bow_to_possition_unit":"41","stern_to_possition_unit":"14","port_to_possition_unit":"9","starboard_to_possitio_unit":"9","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27463","idsession":"362","time_stamp_system":"2017-01-20 15:28:12","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000163","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"YCIU1","name":"YCI UBV","type_of_ship_and_cargo":"20","bow_to_possition_unit":"191","stern_to_possition_unit":"64","port_to_possition_unit":"21","starboard_to_possitio_unit":"21","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27464","idsession":"362","time_stamp_system":"2017-01-20 15:28:12","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000164","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"EYAI1","name":"EYAIC","type_of_ship_and_cargo":"50","bow_to_possition_unit":"75","stern_to_possition_unit":"25","port_to_possition_unit":"12","starboard_to_possitio_unit":"12","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27465","idsession":"362","time_stamp_system":"2017-01-20 15:28:13","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000165","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"GRFZ1","name":"GRF","type_of_ship_and_cargo":"50","bow_to_possition_unit":"143","stern_to_possition_unit":"48","port_to_possition_unit":"17","starboard_to_possitio_unit":"17","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27466","idsession":"362","time_stamp_system":"2017-01-20 15:28:14","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000166","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"KHHZ1","name":"KHH","type_of_ship_and_cargo":"10","bow_to_possition_unit":"248","stern_to_possition_unit":"83","port_to_possition_unit":"25","starboard_to_possitio_unit":"25","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27467","idsession":"362","time_stamp_system":"2017-01-20 15:28:14","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000167","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"TSDQ1","name":"TSDQX","type_of_ship_and_cargo":"10","bow_to_possition_unit":"137","stern_to_possition_unit":"46","port_to_possition_unit":"17","starboard_to_possitio_unit":"17","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27468","idsession":"362","time_stamp_system":"2017-01-20 15:28:15","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000168","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"MUNM1","name":"MUNY MGA","type_of_ship_and_cargo":"50","bow_to_possition_unit":"171","stern_to_possition_unit":"57","port_to_possition_unit":"19","starboard_to_possitio_unit":"19","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27469","idsession":"362","time_stamp_system":"2017-01-20 15:28:15","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000169","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"XKWZ1","name":"XKW","type_of_ship_and_cargo":"0","bow_to_possition_unit":"205","stern_to_possition_unit":"68","port_to_possition_unit":"22","starboard_to_possitio_unit":"22","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27470","idsession":"362","time_stamp_system":"2017-01-20 15:28:16","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000170","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"BJTZ1","name":"BJT","type_of_ship_and_cargo":"0","bow_to_possition_unit":"122","stern_to_possition_unit":"41","port_to_possition_unit":"15","starboard_to_possitio_unit":"15","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27471","idsession":"362","time_stamp_system":"2017-01-20 15:28:16","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000171","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"SYXE1","name":"SYXG EVA","type_of_ship_and_cargo":"40","bow_to_possition_unit":"184","stern_to_possition_unit":"61","port_to_possition_unit":"20","starboard_to_possitio_unit":"20","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27472","idsession":"362","time_stamp_system":"2017-01-20 15:28:17","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000172","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"XXBP1","name":"XXBF PSK","type_of_ship_and_cargo":"10","bow_to_possition_unit":"20","stern_to_possition_unit":"7","port_to_possition_unit":"6","starboard_to_possitio_unit":"6","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27473","idsession":"362","time_stamp_system":"2017-01-20 15:28:17","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000173","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"DXIZ1","name":"DXI","type_of_ship_and_cargo":"30","bow_to_possition_unit":"90","stern_to_possition_unit":"30","port_to_possition_unit":"13","starboard_to_possitio_unit":"13","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27474","idsession":"362","time_stamp_system":"2017-01-20 15:28:18","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000174","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"SLEP1","name":"SLEX PHMTI","type_of_ship_and_cargo":"0","bow_to_possition_unit":"210","stern_to_possition_unit":"70","port_to_possition_unit":"22","starboard_to_possitio_unit":"22","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27475","idsession":"362","time_stamp_system":"2017-01-20 15:28:18","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000175","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"INWW1","name":"INWWX","type_of_ship_and_cargo":"10","bow_to_possition_unit":"157","stern_to_possition_unit":"52","port_to_possition_unit":"18","starboard_to_possitio_unit":"18","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27476","idsession":"362","time_stamp_system":"2017-01-20 15:28:19","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000176","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"QRBM1","name":"QRBMS","type_of_ship_and_cargo":"30","bow_to_possition_unit":"186","stern_to_possition_unit":"62","port_to_possition_unit":"20","starboard_to_possitio_unit":"20","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27477","idsession":"362","time_stamp_system":"2017-01-20 15:28:20","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000177","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"ODIE1","name":"ODIRY EMVMH","type_of_ship_and_cargo":"0","bow_to_possition_unit":"50","stern_to_possition_unit":"17","port_to_possition_unit":"9","starboard_to_possitio_unit":"9","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27478","idsession":"362","time_stamp_system":"2017-01-20 15:28:20","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000178","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"QCDN1","name":"QCDDX NUG","type_of_ship_and_cargo":"30","bow_to_possition_unit":"230","stern_to_possition_unit":"77","port_to_possition_unit":"24","starboard_to_possitio_unit":"24","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27479","idsession":"362","time_stamp_system":"2017-01-20 15:28:21","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000179","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"QSXN1","name":"QSX NQGV","type_of_ship_and_cargo":"0","bow_to_possition_unit":"9","stern_to_possition_unit":"3","port_to_possition_unit":"4","starboard_to_possitio_unit":"4","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27480","idsession":"362","time_stamp_system":"2017-01-20 15:28:21","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000180","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"YALZ1","name":"YAL","type_of_ship_and_cargo":"40","bow_to_possition_unit":"125","stern_to_possition_unit":"42","port_to_possition_unit":"16","starboard_to_possitio_unit":"16","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27481","idsession":"362","time_stamp_system":"2017-01-20 15:28:22","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000181","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"NOBZ1","name":"NOB","type_of_ship_and_cargo":"20","bow_to_possition_unit":"203","stern_to_possition_unit":"68","port_to_possition_unit":"22","starboard_to_possitio_unit":"22","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27482","idsession":"362","time_stamp_system":"2017-01-20 15:28:22","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000182","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"LVGZ1","name":"LVG","type_of_ship_and_cargo":"50","bow_to_possition_unit":"184","stern_to_possition_unit":"61","port_to_possition_unit":"20","starboard_to_possitio_unit":"20","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27483","idsession":"362","time_stamp_system":"2017-01-20 15:28:23","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000183","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"QXAW1","name":"QXAWX","type_of_ship_and_cargo":"20","bow_to_possition_unit":"234","stern_to_possition_unit":"78","port_to_possition_unit":"24","starboard_to_possitio_unit":"24","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27484","idsession":"362","time_stamp_system":"2017-01-20 15:28:23","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000184","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"EEBB1","name":"EEBBM","type_of_ship_and_cargo":"10","bow_to_possition_unit":"136","stern_to_possition_unit":"45","port_to_possition_unit":"17","starboard_to_possitio_unit":"17","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27485","idsession":"362","time_stamp_system":"2017-01-20 15:28:24","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000185","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"NATY1","name":"NAT YEA","type_of_ship_and_cargo":"50","bow_to_possition_unit":"15","stern_to_possition_unit":"5","port_to_possition_unit":"5","starboard_to_possitio_unit":"5","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27486","idsession":"362","time_stamp_system":"2017-01-20 15:28:24","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000186","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"EYSK1","name":"EYSRL KVB","type_of_ship_and_cargo":"10","bow_to_possition_unit":"239","stern_to_possition_unit":"80","port_to_possition_unit":"24","starboard_to_possitio_unit":"24","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27487","idsession":"362","time_stamp_system":"2017-01-20 15:28:25","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000187","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"FDMB1","name":"FDMIR BHC","type_of_ship_and_cargo":"0","bow_to_possition_unit":"163","stern_to_possition_unit":"54","port_to_possition_unit":"19","starboard_to_possitio_unit":"19","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27488","idsession":"362","time_stamp_system":"2017-01-20 15:28:25","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000188","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"XXEZ1","name":"XXE","type_of_ship_and_cargo":"20","bow_to_possition_unit":"142","stern_to_possition_unit":"47","port_to_possition_unit":"17","starboard_to_possitio_unit":"17","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27489","idsession":"362","time_stamp_system":"2017-01-20 15:28:26","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000189","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"KMOC1","name":"KMOVC CIOLW","type_of_ship_and_cargo":"0","bow_to_possition_unit":"89","stern_to_possition_unit":"30","port_to_possition_unit":"13","starboard_to_possitio_unit":"13","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27490","idsession":"362","time_stamp_system":"2017-01-20 15:28:26","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000190","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"AUNV1","name":"AUNVC","type_of_ship_and_cargo":"30","bow_to_possition_unit":"75","stern_to_possition_unit":"25","port_to_possition_unit":"12","starboard_to_possitio_unit":"12","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27491","idsession":"362","time_stamp_system":"2017-01-20 15:28:27","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000191","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"KNRK1","name":"KNRIU KHGR","type_of_ship_and_cargo":"50","bow_to_possition_unit":"66","stern_to_possition_unit":"22","port_to_possition_unit":"11","starboard_to_possitio_unit":"11","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27492","idsession":"362","time_stamp_system":"2017-01-20 15:28:27","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000192","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"KGPY1","name":"KGPYW","type_of_ship_and_cargo":"30","bow_to_possition_unit":"248","stern_to_possition_unit":"83","port_to_possition_unit":"25","starboard_to_possitio_unit":"25","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27493","idsession":"362","time_stamp_system":"2017-01-20 15:28:28","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000193","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"QXHV1","name":"QXHV","type_of_ship_and_cargo":"50","bow_to_possition_unit":"170","stern_to_possition_unit":"57","port_to_possition_unit":"19","starboard_to_possitio_unit":"19","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27494","idsession":"362","time_stamp_system":"2017-01-20 15:28:28","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000194","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"JBIZ1","name":"JBI","type_of_ship_and_cargo":"40","bow_to_possition_unit":"23","stern_to_possition_unit":"8","port_to_possition_unit":"6","starboard_to_possitio_unit":"6","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27495","idsession":"362","time_stamp_system":"2017-01-20 15:28:29","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000195","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"NTRN1","name":"NTRJI NKMWU","type_of_ship_and_cargo":"20","bow_to_possition_unit":"204","stern_to_possition_unit":"68","port_to_possition_unit":"22","starboard_to_possitio_unit":"22","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27496","idsession":"362","time_stamp_system":"2017-01-20 15:28:29","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000196","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"RWVW1","name":"RWVW","type_of_ship_and_cargo":"0","bow_to_possition_unit":"29","stern_to_possition_unit":"10","port_to_possition_unit":"7","starboard_to_possitio_unit":"7","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27497","idsession":"362","time_stamp_system":"2017-01-20 15:28:30","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000197","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"FMHZ1","name":"FMH","type_of_ship_and_cargo":"20","bow_to_possition_unit":"86","stern_to_possition_unit":"29","port_to_possition_unit":"13","starboard_to_possitio_unit":"13","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27498","idsession":"362","time_stamp_system":"2017-01-20 15:29:14","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000198","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"OBRO1","name":"OBRO","type_of_ship_and_cargo":"10","bow_to_possition_unit":"170","stern_to_possition_unit":"57","port_to_possition_unit":"19","starboard_to_possitio_unit":"19","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27499","idsession":"362","time_stamp_system":"2017-01-20 15:29:14","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000199","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"TMIP1","name":"TMI POX","type_of_ship_and_cargo":"50","bow_to_possition_unit":"119","stern_to_possition_unit":"40","port_to_possition_unit":"15","starboard_to_possitio_unit":"15","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+,{
+"idmessage":"27500","idsession":"362","time_stamp_system":"2017-01-20 15:29:17","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000200","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"MNCZ1","name":"MNC","type_of_ship_and_cargo":"30","bow_to_possition_unit":"45","stern_to_possition_unit":"15","port_to_possition_unit":"9","starboard_to_possitio_unit":"9","type_of_position_fixing_divice":"1","ETA":null,"destination":"","last_static_draught":"0","DTE":"127"
+}
+]

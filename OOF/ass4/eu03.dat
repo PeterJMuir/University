@@ -1,0 +1,42 @@
+C 100
+4
+on station
+3
+B 2
+Third Person
+OOF Specialist
+4
+true
+A 12
+Second Person
+Explorer
+1
+true
+G 01
+Fourth Person
+Geologist
+1
+true
+B 2
+5
+maintenance
+1
+D 01
+Luke Skywalker
+Jedi
+1
+false
+C 99
+2
+available
+2
+B 1
+Carl Ton
+Pilot
+1
+false
+A 11
+First Person
+Engineer
+1
+false

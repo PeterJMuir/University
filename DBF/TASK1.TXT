@@ -1,0 +1,252 @@
+SQL> --1.a
+SQL> SELECT IndustryTitle
+  2  FROM INDUSTRY I,(SELECT IndustryID, count(IndustryID) AS Cnt_Ind
+  3  FROM JOB J
+  4  GROUP BY IndustryID) R
+  5  WHERE R.Cnt_Ind = (SELECT MAX(R.Cnt_Ind) FROM (SELECT count(IndustryID) AS Cnt_Ind
+  6  FROM JOB J
+  7  GROUP BY IndustryID) R) AND I.IndustryID = R.IndustryID;
+INDUSTRYTITLE                                                                   
+--------------------------------------------------                              
+General Construction                                                            
+
+SQL> 
+SQL> --1.B
+SQL> SELECT *
+  2  FROM JOB J, CONTRACT_JOB CJ
+  3  WHERE J.JobID = CJ.JobID AND (CJ.EndDate - CJ.StartDate) =
+  4  (SELECT MAX(DateDifference)
+  5  FROM (
+  6  SELECT (EndDate - StartDate) AS DateDifference
+  7  FROM CONTRACT_JOB CJ
+  8  WHERE EndDate IS NOT NULL AND StartDate IS NOT NULL
+  9  ));
+JOBID      JOBDESCRIPTION                                     URGENCYLEV        
+---------- -------------------------------------------------- ----------        
+JOBADDRESS                                           POSTCODE INDUSTRYID        
+-------------------------------------------------- ---------- ----------        
+SELECTEDBUS JOBID      STARTDATE ENDDATE   CORPORATEC                           
+----------- ---------- --------- --------- ----------                           
+17         Structural crack repair                            Immediate         
+750 Collins St, Melbourne                                3000 8                 
+12345678920 17         01-JAN-17 31-DEC-19 7                                    
+                                                                                
+
+SQL> 
+SQL> --1.C
+SQL> SELECT DISTINCT *
+  2  FROM BUSINESS A, (SELECT B.ABNNUMBER, B.BUSINESSPOSTCODE
+  3  FROM BUSINESS B, (SELECT POSTCODE, ADJACENTPOSTCODE
+  4  FROM ADJACENT_SUBURB
+  5  WHERE POSTCODE = (
+  6  SELECT POSTCODE
+  7  FROM JOB
+  8  WHERE JobID = '11')
+  9  ) R
+ 10  WHERE B.BUSINESSPOSTCODE = R.POSTCODE OR B.BUSINESSPOSTCODE = R.ADJACENTPOSTCODE) X, BUSINESS_INDUSTRY BI
+ 11  WHERE A.ABNNUMBER = X.ABNNUMBER AND A.ABNNUMBER = BI.ABNNUMBER AND BI.INDUSTRYID = (SELECT INDUSTRYID FROM JOB WHERE JobID = '11');
+ABNNUMBER   BUSINESSNAME                                                        
+----------- --------------------------------------------------                  
+CONTACTNAME          CONTACTNUMBER                                              
+-------------------- --------------------                                       
+CONTACTEMAIL                                                                    
+--------------------------------------------------                              
+BUSINESSADDRESS                                    BUSINESSPOSTCODE ABNNUMBER   
+-------------------------------------------------- ---------------- ----------- 
+BUSINESSPOSTCODE ABNNUMBER   INDUSTRYID                                         
+---------------- ----------- ----------                                         
+12345678912 Consolidated Proerty Services                                       
+Harun Rashid         039342354                                                  
+hrashid@cps.com                                                                 
+Cr Lonsdale St and Russel St, Melbourne                        3000 12345678912 
+            3000 12345678912 1                                                  
+                                                                                
+12345678929 Gold Cleaning Services                                              
+Roger Mayers         045067600                                                  
+rmayers@yahoo.com.au                                                            
+50 Wood St, North Melbourne                                    3051 12345678929 
+            3051 12345678929 1                                                  
+                                                                                
+
+SQL> 
+SQL> 
+SQL> --1.d
+SQL> 
+SQL> SELECT DISTINCT CLIENTNO
+  2  FROM EQUIPMENT_HIRE
+  3  WHERE MONTHS_BETWEEN(sysdate, pickupdate) > 2 AND CLIENTNO NOT IN (SELECT DISTINCT CLIENTNO FROM EQUIPMENT_hire WHERE MONTHS_BETWEEN(sysdate, pickupdate) <= 2)
+  4  ORDER BY TO_NUMBER(CLIENTNO);
+CLIENTNO                                                                        
+----------                                                                      
+1                                                                               
+4                                                                               
+5                                                                               
+6                                                                               
+10                                                                              
+11                                                                              
+12                                                                              
+13                                                                              
+
+8 rows selected.
+
+SQL> 
+SQL> --1.E
+SQL> 
+SQL> 
+SQL> SELECT R.BusinessName AS "Highest rated business", R.REVIEWRATING AS "Highest rating out of 5", Q.BusinessName AS "Lowest rated business", Q.REVIEWRATING AS "Lowest rating out of 5"
+  2  FROM
+  3  (SELECT B1.BusinessName, X1.REVIEWRATING
+  4  FROM BUSINESS B1, (
+  5  SELECT SELECTEDBUSINESSABNNUMBER, REVIEWRATING
+  6  FROM JOB J, (SELECT JOBID, REVIEWRATING
+  7  FROM REVIEW
+  8  WHERE REVIEWRATING = (SELECT MAX(REVIEWRATING) AS MAXRATING
+  9  FROM REVIEW)) MA
+ 10  WHERE J.JOBID = MA.JOBID
+ 11  ) X1
+ 12  WHERE B1.ABNNUMBER = X1.SELECTEDBUSINESSABNNUMBER
+ 13  ) R,
+ 14  (SELECT B2.BusinessName, X2.REVIEWRATING
+ 15  FROM BUSINESS B2, (
+ 16  SELECT SELECTEDBUSINESSABNNUMBER, REVIEWRATING
+ 17  FROM JOB J, (SELECT JOBID, REVIEWRATING
+ 18  FROM REVIEW
+ 19  WHERE REVIEWRATING = (SELECT MIN(REVIEWRATING) AS MINRATING
+ 20  FROM REVIEW)) MA
+ 21  WHERE J.JOBID = MA.JOBID
+ 22  ) X2
+ 23  WHERE B2.ABNNUMBER = X2.SELECTEDBUSINESSABNNUMBER
+ 24  ) Q;
+Highest rated business                             Highest rating out of 5      
+-------------------------------------------------- -----------------------      
+Lowest rated business                              Lowest rating out of 5       
+-------------------------------------------------- ----------------------       
+Home Cleaning Services                                                   5      
+Do it Right Mowers                                                      2       
+                                                                                
+
+SQL> 
+SQL> --1.F
+SQL> 
+SQL> SELECT C.CLIENTNO, C.CLIENTNAME, (NVL(INDCLAMOUNT,0) + NVL(CORCLAMOUNT,0)) AS "Total Job Expense", TOTALEQUIP AS "Total Equipment Hiring Expense"
+  2  FROM CLIENT C,
+  3  (SELECT SUM(I.AMOUNT) AS INDCLAMOUNT, CAJ.INDIVIDUALCLIENTNO
+  4  FROM INVOICE I, CASUAL_JOB CAJ
+  5  WHERE I.JOBID = CAJ.JOBID
+  6  GROUP BY CAJ.INDIVIDUALCLIENTNO) CAJOB,
+  7  (SELECT SUM(I.AMOUNT) AS CORCLAMOUNT, COJ.CORPORATECLIENTNO
+  8  FROM INVOICE I, CONTRACT_JOB COJ
+  9  WHERE I.JOBID = COJ.JOBID
+ 10  GROUP BY COJ.CORPORATECLIENTNO) COJOB,
+ 11  (SELECT ClientNo, SUM(150 * (DropOffDate - PickUpDate)) AS TOTALEQUIP
+ 12  FROM EQUIPMENT_HIRE
+ 13  WHERE DropOffDate IS NOT NULL
+ 14  GROUP BY CLIENTNO) EQCOST
+ 15  WHERE C.CLIENTNO = CAJOB.INDIVIDUALCLIENTNO(+)
+ 16  AND C.CLIENTNO = COJOB.CORPORATECLIENTNO(+)
+ 17  AND C.CLIENTNO = EQCOST.CLIENTNO(+)
+ 18  ORDER BY TO_NUMBER(C.CLIENTNO);
+CLIENTNO   CLIENTNAME           Total Job Expense Total Equipment Hiring Expense
+---------- -------------------- ----------------- ------------------------------
+1          Kazi Abir                            0                            300
+2          Kazi Adnan                        3000                           1050
+3          Syed Mahbub                       5000                               
+4          Esrar Mahbub                      1500                            750
+5          Samira Sadmin                     5000                            300
+6          Adam Lever                        4000                            300
+7          Kazi Nipu                         4800                               
+8          Arefin Islam                         0                               
+9          Roger Federer                      800                               
+10         Andy Marray                          0                            750
+11         Joe Santrini                       100                            150
+12         David Packman                        0                            450
+13         Cristopher Nolan                   280                            450
+14         Bruse Wayne                          0                               
+15         Chandler Bing                        0                               
+16         Ross Geller                          0                               
+17         Joe Tribiany                       100                               
+18         Jack Roland                        400                               
+19         Henry Steven                         0                               
+20         Ragibul Hasan                      700                               
+
+20 rows selected.
+
+SQL> 
+SQL> --1.G
+SQL> 
+SQL> SELECT Distinct E.EQUIPMENTID, E.EquipmentName
+  2  FROM EQUIPMENT E
+  3  WHERE EQUIPMENTID IN (SELECT EQUIPMENTID FROM
+  4   (SELECT EQUIPMENTID, COUNT(EQUIPMENTID) AS TIMES_HIRED
+  5   FROM EQUIPMENT_HIRE
+  6   GROUP BY EQUIPMENTID) T1
+  7   WHERE 2 >= (SELECT COUNT(*) FROM (SELECT EQUIPMENTID, COUNT(EQUIPMENTID) AS TIMES_HIRED
+  8   FROM EQUIPMENT_HIRE
+  9   GROUP BY EQUIPMENTID) T2
+ 10   WHERE T1.TIMES_HIRED <= T2.TIMES_HIRED)
+ 11  );
+EQUIPMENTI EQUIPMENTNAME                                                        
+---------- --------------------------------------------------                   
+1          Lawn Mower S300                                                      
+3          Lawn Mower S300                                                      
+
+SQL> 
+SQL> --1.h
+SQL> select *
+  2  from business B, freelancer_business fb
+  3  where fb.EliteMemberID is null and b.abnnumber = fb.abnnumber;
+ABNNUMBER   BUSINESSNAME                                                        
+----------- --------------------------------------------------                  
+CONTACTNAME          CONTACTNUMBER                                              
+-------------------- --------------------                                       
+CONTACTEMAIL                                                                    
+--------------------------------------------------                              
+BUSINESSADDRESS                                    BUSINESSPOSTCODE ABNNUMBER   
+-------------------------------------------------- ---------------- ----------- 
+ELITEMEMBE                                                                      
+----------                                                                      
+12345678925 Moveit                                                              
+Sunny Joe            038000033                                                  
+sunny@hotmail.com                                                               
+90 Russel St, Melbourne                                        3000 12345678925 
+                                                                                
+                                                                                
+
+SQL> 
+SQL> --1.i
+SQL> SELECT B.ABNNUMBER, B.BUSINESSNAME
+  2  FROM BUSINESS B, (SELECT ABNNUMBER
+  3  FROM QUOTATION Q
+  4  WHERE Q.QuoteStatus = 'Posted') R
+  5  WHERE B.ABNNUMBER = R.ABNNUMBER;
+ABNNUMBER   BUSINESSNAME                                                        
+----------- --------------------------------------------------                  
+12345678913 Kohlan Movers                                                       
+12345678915 Anytime Plumbers                                                    
+12345678922 Joe's Rubbish Removal                                               
+12345678923 Do it Right Mowers                                                  
+
+SQL> 
+SQL> --1.J
+SQL> SELECT SeminarTitle, SeminarDateTime, cnt_pm_participants AS "Afternoon Participants"
+  2  FROM Seminar S, (
+  3  SELECT X1.SeminarID, count(SA.EliteMemberID) AS cnt_pm_participants
+  4  FROM Seminar_Attendies SA, (SELECT SeminarID
+  5  FROM SEMINAR
+  6  WHERE TO_CHAR(SeminarDateTime, 'hh24:mi:ss') > '12:00:00') X1
+  7  WHERE SA.SeminarID = X1.SeminarID
+  8  GROUP BY X1.SeminarID) X2
+  9  WHERE S.SeminarID = X2.SeminarID;
+SEMINARTITLE                                       SEMINARDA                    
+-------------------------------------------------- ---------                    
+Afternoon Participants                                                          
+----------------------                                                          
+Career Fair for Plumbing Workers                   05-MAR-17                    
+                     2                                                          
+                                                                                
+Cleaners Counsil Seminar                           15-MAR-17                    
+                     3                                                          
+                                                                                
+
+SQL> 
+SQL> SPOOL OFF

@@ -1,0 +1,5 @@
+{
+    DBURL:"jdbc:mysql://localhost:3306/recipedb",
+    userName:"root",
+    password:""
+}

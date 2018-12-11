@@ -1,0 +1,5 @@
+{
+    DBURL:"jdbc:mysql://latcs7.cs.latrobe.edu.au:3306/18477719",
+    userName:"18477719",
+    password:"root"
+}

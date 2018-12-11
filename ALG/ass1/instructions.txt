@@ -1,0 +1,10 @@
+i.txt    = 1000
+a.txt    = 4096
+b.txt    = 16384
+c.txt    = 65536
+d.txt    = 262144
+e.txt    = 1048576
+f.txt    = 4194304
+
+o.txt    = output sorted by Receipts
+p.txt    = output fully sorted

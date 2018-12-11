@@ -1,0 +1,108 @@
+SQL> --3.a
+SQL> CREATE OR REPLACE TRIGGER chk_Review
+  2  BEFORE INSERT ON REVIEW
+  3  FOR EACH ROW
+  4  DECLARE v_1 VARCHAR2(11);
+  5  BEGIN
+  6  IF(:new.JobID IS NOT NULL) THEN
+  7  SELECT SelectedBusinessABNNumber
+  8  INTO v_1
+  9  FROM JOB J
+ 10  WHERE :new.JobID = J.JobID;
+ 11  IF(v_1 IS NULL) THEN
+ 12  RAISE_APPLICATION_ERROR(-20002, 'Job does not have a business selected yet and cannot be reviewed');
+ 13  END IF;
+ 14  ELSE
+ 15  RAISE_APPLICATION_ERROR(-20001, 'Can''t put in a review without a JobID');
+ 16  END IF;
+ 17  END chk_Review;
+ 18  /
+
+Trigger created.
+
+SQL> 
+SQL> INSERT INTO REVIEW(ReviewID,ReviewDate,ReviewRating,ReviewText)
+  2  VALUES(20,SYSDATE,5,'Good Job');
+INSERT INTO REVIEW(ReviewID,ReviewDate,ReviewRating,ReviewText)
+            *
+ERROR at line 1:
+ORA-20001: Can't put in a review without a JobID 
+ORA-06512: at "18477719.CHK_REVIEW", line 12 
+ORA-04088: error during execution of trigger '18477719.CHK_REVIEW' 
+
+
+SQL> 
+SQL> INSERT INTO REVIEW
+  2  VALUES(20,SYSDATE,5,'Good Job',20);
+INSERT INTO REVIEW
+            *
+ERROR at line 1:
+ORA-20002: Job does not have a business selected yet and cannot be reviewed 
+ORA-06512: at "18477719.CHK_REVIEW", line 9 
+ORA-04088: error during execution of trigger '18477719.CHK_REVIEW' 
+
+
+SQL> 
+SQL> --3.b
+SQL> DROP TABLE DELETEDJOBS;
+
+Table dropped.
+
+SQL> CREATE TABLE DeletedJobs
+  2  (JobID VARCHAR2(10),
+  3  IndustryTitle VARCHAR2(10),
+  4  Postcode NUMBER(4),
+  5  DeletionDate DATE,
+  6  DNumber INTEGER,
+  7  PRIMARY KEY(DNumber)
+  8  );
+
+Table created.
+
+SQL> DROP SEQUENCE seq_1;
+
+Sequence dropped.
+
+SQL> CREATE SEQUENCE seq_1
+  2  START WITH 1
+  3  INCREMENT BY 1;
+
+Sequence created.
+
+SQL> 
+SQL> 
+SQL> CREATE OR REPLACE TRIGGER Backup_jobs
+  2  BEFORE DELETE ON JOB
+  3  FOR EACH ROW
+  4  declare
+  5  v_industrytitle INDUSTRY.INDUSTRYTITLE%TYPE;
+  6  BEGIN
+  7  select INDUSTRYTITLE
+  8  INTO V_INDUSTRYTITLE
+  9  FROM INDUSTRY
+ 10  WHERE INDUSTRYID = :OLD.INDUSTRYID;
+ 11  INSERT INTO DeletedJobs
+ 12  VALUES(:old.JobID, V_INDUSTRYTITLE, :OLD.POSTCODE,SYSDATE,seq_1.nextval);
+ 13  DELETE FROM CASUAL_JOB
+ 14  WHERE JOBID = :OLD.JOBID;
+ 15  DELETE FROM CONTRACT_JOB
+ 16  WHERE JOBID = :OLD.JOBID;
+ 17  DELETE FROM QUOTATION
+ 18  WHERE JOBID = :OLD.JOBID;
+ 19  END Backup_jobs;
+ 20  /
+
+Trigger created.
+
+SQL> 
+SQL> DELETE FROM JOB
+  2  WHERE JOBID = '11';
+
+1 row deleted.
+
+SQL> SELECT * FROM DELETEDJOBS;
+JOBID      INDUSTRYTI   POSTCODE DELETIOND    DNUMBER                           
+---------- ---------- ---------- --------- ----------                           
+11         Cleaning         3000 24-MAY-17          1        
+
+SQL> SPOOL OFF

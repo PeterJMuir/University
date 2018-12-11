@@ -1,0 +1,11 @@
+Peter Muir 18477719 7/02/2017
+ALG Assignment 2: "myShipFinder.java".
+
+Algorithms used are mainly modified binary searches to grab necessary
+values/indexes and Collections sort. The binary searches are re-written several times as they could not be
+generalised due to the different values requiring different 'get' methods.
+Collections sort is used throughout the program as it is reliable, stable (which
+is important for keeping things in chronological order), and has a good average performance of O(nlog(n)).
+
+The latitude and longitude attributes were converted to doubles (using
+Double.parseDouble(String)) so that the comparisons worked properly.

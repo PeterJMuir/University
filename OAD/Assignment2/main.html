@@ -1,0 +1,47 @@
+<!-- this page is intended to show a list of recipes and provide buttons
+  -- to perform the tasks of deleting recipes and
+  -- to swap to the other pages that perform the tasks of adding, viewing, and updating recipes.
+  -- This is the first page the user should see, and it should be where the
+  -- user returns to when they are done with succesfully adding or updating a recipe
+  -->
+  
+  <!--/* 
+*	Name: Peter Muir
+*	Student ID: 18477719
+ */ -->
+
+<hr>
+<!-- buttons for display, add, edit and delete-->
+<input type = "button" value = "View Recipe" ng-click = "openDisplay()"> </input>
+<input type = "button" value = "Add Recipe" ng-click = "openAdd()"> </input>
+<input type = "button" value = "Edit Selected Recipe" ng-click = "openEdit()"> </input>
+<input type = "button" value = "Delete Selected Recipe" ng-click = "deleteRecipe()"> </input>
+
+
+<!-- displays recipes in a table -->
+<table>
+	<tr>
+	<td>Id</td>
+	<td>Name</td>
+	<td>Serves</td>
+	<td>Ingredients</td>
+	<td>Remarks</td>
+	</tr>
+	<tr ng-repeat = "r in recipes | orderBy: sortOrder | filter: filterString"
+	ng-click = "setSelectedRecipe(r)"
+	ng-class="{selected: selectedRecipe == r}">
+	<td>{{ r.ID }}</td>
+	<td>{{ r.name }}</td>
+	<td>{{ r.serves }}</td>
+	<td>{{ r.getIngredientsNames() }}</td>
+	<td>{{ r.remarks }}</td>
+	</tr>
+
+</table>
+
+<!-- TODO: set up a checkbox and a input field that togle the sort order and filter the list respectivly -->
+Sort by Recipe Name
+<input type = "checkbox" ng-model = "sortByName" ng-click = "setSortOrder()"> </input>
+<br>
+Filter String:
+<input type = "text" ng-model = "filterString"> </input>

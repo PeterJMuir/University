@@ -1,0 +1,85 @@
+public class MusicAlbum
+{
+	private String id;
+	private String name;
+	private String genre;
+	private boolean isCompilation;
+	private int trackCount;
+
+	public MusicAlbum() {}
+	public MusicAlbum(String id, String name, String genre, boolean isCompilation, int trackCount)
+	{
+		this.id = id;
+		this.name = name;
+		this.genre = genre;
+		this.isCompilation = isCompilation;
+		this.trackCount = trackCount;
+	}
+
+	public void setCompilation(boolean isCompilation) {
+		this.isCompilation = isCompilation;
+	}
+
+	public void setTrackCount(int trackCount) {
+		this.trackCount = trackCount;
+	}
+
+	public String getId()
+	{
+		return id;
+	}
+
+	public void setId(String id)
+	{
+		this.id = id;
+	}
+
+	public String getName()
+	{
+		return name;
+	}
+
+	public void setName(String name)
+	{
+		this.name = name;
+	}
+
+	public String getGenre()
+	{
+		return genre;
+	}
+
+	public void setGenre(String genre)
+	{
+		this.genre = genre;
+	}
+
+	public boolean isCompilation()
+	{
+		return isCompilation;
+	}
+
+	public int getTrackCount()
+	{
+		return trackCount;
+	}
+
+	public String toString()
+	{
+		return
+			"\nMusicAlbum"
+			+ "[id: " + id
+			+ ", name: " + name
+			+ ", genre: " + genre
+			+ ", isCompilation: " + isCompilation
+			+ ", trackCount: " + trackCount + "]";
+	}
+
+	public boolean equals(Object obj)
+	{
+		return
+			obj != null &&
+			obj instanceof MusicAlbum &&
+			((MusicAlbum)obj).id == this.id;
+	}
+}

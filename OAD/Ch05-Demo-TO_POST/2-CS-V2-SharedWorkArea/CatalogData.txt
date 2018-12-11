@@ -1,0 +1,6 @@
+P10;Chair;20.5;true
+P20;Table;10.5;false
+P30;Desk;40.5;true
+P40;Computer;30.5;false
+P50;Desk;60.5;true
+P60;Chair;50.5;false

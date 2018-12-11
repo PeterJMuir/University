@@ -1,0 +1,33 @@
+<!--/* 
+*	Name: Peter Muir
+*	Student ID: 18477719
+ */ -->
+<h2> {{ selectedRecipe.name }} </h2>
+
+<!-- display all the relevent information in a recipe including a tabe of ingredients 
+  -- no editing is possable in theis page
+  -->
+<table>
+	<tr>
+	<td>ID</td>
+	<td>Name</td>
+	<td>Quantity</td>
+	<td>Units and Style</td>
+	</tr>
+	<tr ng-repeat = "i in selectedRecipe.ingredients | orderBy: 'ID'">
+	<td>{{ i.ID }}</td>
+	<td>{{ i.name }}</td>
+	<td>{{ i.quantity }}</td>
+	<td>{{ i.unitsAndStyle }}</td>
+	</tr>
+</table>
+<br>
+<h4>Serves: {{ selectedRecipe.serves }} </h4>
+<h4>Steps</h4>
+<textarea  rows = "10" cols = "50" ng-model = "selectedRecipe.steps" readonly > </textarea>
+<br>
+<h4>Remarks</h4>
+<textarea rows = "4" cols = "50" ng-model = "selectedRecipe.remarks" readonly> </textarea>
+<br>
+<button type="button" ng-click="openMain()"> Return </button> <br>
+<hr>

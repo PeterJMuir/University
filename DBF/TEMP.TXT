@@ -1,0 +1,6 @@
+SQL> SELECT * FROM DELETEDJOBS;
+JOBID      INDUSTRYTI   POSTCODE DELETIOND    DNUMBER                           
+---------- ---------- ---------- --------- ----------                           
+11         Cleaning         3000 24-MAY-17          1                           
+
+SQL> SPOOL OFF

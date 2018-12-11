@@ -1,0 +1,118 @@
+SQL> --2.a
+SQL> CREATE OR REPLACE PROCEDURE PRO1(
+  2  P_INDUSTRYID IN INDUSTRY.INDUSTRYID%TYPE) AS
+  3  V_UNIONTITLE TRADE_UNION.UNIONTITLE%TYPE;
+  4  CURSOR C_BUSINESSIDS IS
+  5  SELECT B.ABNNUMBER, B.BUSINESSNAME
+  6  FROM BUSINESS_INDUSTRY BI, BUSINESS B
+  7  WHERE BI.INDUSTRYID = P_INDUSTRYID AND BI.ABNNUMBER = B.ABNNUMBER;
+  8  BEGIN
+  9  SELECT UNIONTITLE
+ 10  INTO V_UNIONTITLE
+ 11  FROM TRADE_UNION TU
+ 12  WHERE UNIONID = (SELECT UNIONID FROM INDUSTRY WHERE INDUSTRYID = P_INDUSTRYID);
+ 13  DBMS_OUTPUT.PUT_LINE(V_UNIONTITLE);
+ 14  FOR CNT IN C_BUSINESSIDS LOOP
+ 15  DBMS_OUTPUT.put_LINE(CNT.ABNNUMBER || '  ' || CNT.BUSINESSNAME);
+ 16  END LOOP;
+ 17  END PRO1;
+ 18  /
+
+Procedure created.
+
+SQL> 
+SQL> EXECUTE PRO1('1');
+Cleaners' Union                                                                 
+12345678912  Consolidated Proerty Services                                      
+12345678924  Shine Cleaning                                                     
+12345678926  Home Cleaning Services                                             
+12345678929  Gold Cleaning Services                                             
+
+PL/SQL procedure successfully completed.
+
+SQL> 
+SQL> --2.B
+SQL> CREATE OR REPLACE FUNCTION OverdueFine(
+  2  P_CLIENTNO IN CLIENT.CLIENTNO%TYPE) RETURN NUMBER IS
+  3  V_DAYS_RENTED NUMBER;
+  4  V_DAYS_OVERDUE NUMBER;
+  5  BEGIN
+  6  SELECT (SYSDATE - PICKUPDATE)
+  7  INTO V_DAYS_RENTED
+  8  FROM EQUIPMENT_HIRE
+  9  WHERE CLIENTNO = P_CLIENTNO AND DROPOFFDATE IS NULL;
+ 10  SELECT (V_DAYS_RENTED - MAXRENTDURATIONDAYS)
+ 11  INTO V_DAYS_OVERDUE
+ 12  FROM EQUIPMENT_HIRE EH, EQUIPMENT E
+ 13  WHERE EH.CLIENTNO = P_CLIENTNO AND EH.DROPOFFDATE IS NULL AND EH.EQUIPMENTID = E.EQUIPMENTID;
+ 14  IF(V_DAYS_OVERDUE < 0) THEN
+ 15  V_DAYS_OVERDUE := 0;
+ 16  END IF;
+ 17  RETURN (20*V_DAYS_OVERDUE);
+ 18  END OverdueFine;
+ 19  /
+
+Function created.
+
+SQL> 
+SQL> SELECT ClientNo, OverdueFine(ClientNo) AS "OVERDUE FINES"
+  2  FROM CLIENT;
+CLIENTNO   OVERDUE FINES                                                        
+---------- -------------                                                        
+1                                                                               
+10                                                                              
+11                                                                              
+12                                                                              
+13                                                                              
+14                                                                              
+15                     0                                                        
+16                                                                              
+17                                                                              
+18                                                                              
+19                                                                              
+2                                                                               
+20                                                                              
+3                                                                               
+4                                                                               
+5             2148.35324                                                        
+6                                                                               
+7                                                                               
+8                                                                               
+9                                                                               
+
+20 rows selected.
+
+SQL> 
+SQL> --2.C
+SQL> CREATE OR REPLACE PROCEDURE TOTALOWED(
+  2  P_CLIENTNO IN CLIENT.CLIENTNO%TYPE) AS
+  3  V_RENT_COST NUMBER;
+  4  V_OVERDUE NUMBER;
+  5  BEGIN
+  6  SELECT SUM(150 * (DropOffDate - PickUpDate))
+  7  INTO V_RENT_COST
+  8  FROM EQUIPMENT_HIRE
+  9  WHERE DropOffDate IS NOT NULL AND CLIENTNO = P_CLIENTNO
+ 10  GROUP BY CLIENTNO;
+ 11  IF(V_RENT_COST < 0) THEN
+ 12  V_RENT_COST := 0;
+ 13  END IF;
+ 14  SELECT (NVL(OverdueFine(CLIENTNO),0))
+ 15  INTO V_OVERDUE
+ 16  FROM CLIENT
+ 17  WHERE CLIENTNO = P_CLIENTNO;
+ 18  DBMS_OUTPUT.PUT_LINE('EQUIPMENT COST: ' || V_RENT_COST);
+ 19  DBMS_OUTPUT.PUT_LINE('OVERDUE FINE: ' || V_OVERDUE);
+ 20  END TOTALOWED;
+ 21  /
+
+Procedure created.
+
+SQL> 
+SQL> EXECUTE TOTALOWED('5');
+EQUIPMENT COST: 300                                                             
+OVERDUE FINE: 2148.35347222222222222222222222222222222                          
+
+PL/SQL procedure successfully completed.
+
+SQL> SPOOL OFF

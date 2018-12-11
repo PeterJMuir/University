@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<!-- All done, should not need to add anything to this :) 
+-- this page is the 'entry' point of your page
+-- it contains all your js script includes
+-- and initialises (ng-init) the page by calling load() and openMain()
+-- then also 'loads' the other html bages that we are going to swap between in the SPA
+-->
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        table, th , td  {border: 1px solid grey; border-collapse: collapse; padding: 5pt;}
+        table tr:nth-child(odd)	{background-color: #f1f1f1;}
+        table tr:nth-child(even) {background-color: #ffffff;}
+        .selected {color: red;}
+        .message {color: blue; font-size:12pt}
+    </style>
+
+    <script src="Ingredient.js"></script>
+    <script src="Recipe.js"></script>
+    <script src= "angular.js"></script> <!-- alwais use the unminified version while debugging, somtimes it will give you much more meaninfull js  -->
+    <!-- <script src= "angular.min.js"></script> you would only realistically swap to min once you are done debugging -->
+    <script src= "main.js"></script>
+</head>
+<body ng-app="myApp" ng-controller="myController">
+<hr>
+<h1> Recipe Book </h1>
+
+
+<div ng-init="load(); openMain()"></div>
+<div ng-include="'main.html'" ng-show="showMain"></div>
+<div ng-include="'add.html'" ng-show="showAdd"></div>
+<div ng-include="'edit.html'" ng-show="showEdit"></div>
+<div ng-include="'display.html'" ng-show="showDisplay"></div>
+
+</body>
+</html>

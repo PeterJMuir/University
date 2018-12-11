@@ -1,0 +1,46 @@
+<!--/* 
+*	Name: Peter Muir
+*	Student ID: 18477719
+ */ -->
+ <h2> Edit {{ tempRecipe.name }} </h2>
+
+
+<form ng-submit="updateRecipe()">
+        
+	Name:<input contenteditable = "true" type = "text" ng-model = "tempRecipe.name"> </input>
+	<br>
+	Serves:<input contenteditable = "true" type = "text" ng-model = "tempRecipe.serves"> </input>
+	<br>
+	Steps:<textarea rows = "5" cols = "80" contenteditable = "true" ng-model = "tempRecipe.steps"> </textarea>
+	<br>
+	Remarks:<textarea rows = "5" cols = "80" contenteditable = "true" ng-model = "tempRecipe.remarks"> </textarea>
+	<hr>
+	<input type = "button" value = "Add New Ingredient" ng-click = "addIngredient()"> </input>
+	<input type = "button" value = "Delete Selected Ingredient" ng-click = "flagIngredientDeleted()"> </input>
+	<br>
+	<table>
+	<tr>
+	<td>ID</td>
+	<td>Name</td>
+	<td>Quantity</td>
+	<td>Units and Style</td>
+	</tr>
+	<tr ng-repeat = "i in tempRecipe.ingredients | orderBy: 'ID'| filter: {deleted : false}"
+	ng-click = "setSelectedIngredient(i)"
+	ng-class="{selected: selectedIngredient == i}">
+	<td>{{ i.ID }}</td>
+	<td>{{ i.name }}</td>
+	<td>{{ i.quantity }}</td>
+	<td>{{ i.unitsAndStyle }}</td>
+	</tr>
+</table>
+<br>
+Name:<input type = "text" min-width = "60" ng-model = "selectedIngredient.name"> </input>
+Quantity:<input type = "text" min-width = "60" ng-model = "selectedIngredient.quantity"> </input>
+Units and Style:<input type = "text" min-width = "60" ng-model = "selectedIngredient.unitsAndStyle"> </input>
+<br>
+	<button type="submit"> Save and Return </button>
+    <button type="button" ng-click="openMain()"> Discard and Return </button> <br>
+</form>
+
+<hr>

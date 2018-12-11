@@ -1,0 +1,1 @@
+http://stackoverflow.com/questions/10190132/selection-sort-growing-ordered-ranges-from-both-ends

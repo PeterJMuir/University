@@ -1,0 +1,26 @@
+/* sample.css 
+*/
+
+.root				// apply to the root of a scene
+{
+	-fx-alignment: center;
+	-fx-background-color: rgb(200, 200, 200);
+	-fx-spacing: 20;	
+	-fx-min-width: 400;
+	-fx-min-height: 300;
+}
+
+.text-field		// apply to all TextField instances
+{
+	-fx-font-size: 30;
+	-fx-background-color: lightblue;
+	-fx-border-color: red;
+	-fx-max-width: 300;
+}
+
+#tf2				// apply to element with id tf2
+{
+	-fx-border-color: yellow;
+	-fx-border-width: 10px;
+	-fx-border-insets: 10 50 10 50;  // top, right, bottom, left
+}

@@ -1,0 +1,21 @@
+5
+Plant
+Aloe Vera
+A little bit wilted, more watering required during hot weather
+Edible
+Grape Vine
+Very good season for the grapes this year, very healthy
+Summer
+true
+Poisonous
+Poison Ivy
+Has overgrown this season, consider trimming soon
+3
+Plant
+Tree
+A very nice tree, attracts the parrots
+Edible
+Carrots
+Looking a little yellow, harvest might not be very good
+Winter
+false

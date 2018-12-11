@@ -1,0 +1,82 @@
+[
+  {
+    "firstName": " Jamie",
+    "lastName": "Avery",
+    "address": "710 Glenview Close",
+    "suburb": "LISAROW",
+    "state": "NSW",
+    "postCode": 2250
+  },
+  {
+    "firstName": " John",
+    "lastName": "Doe",
+    "address": "4804 Dale Avenue",
+    "suburb": "MACQUARIE CENTRE",
+    "state": "NSW",
+    "postCode": 2113
+  },
+  {
+    "firstName": " Barbara",
+    "lastName": "Gordon",
+    "address": "4206 Dobell Chase",
+    "suburb": "EIDSVOLD",
+    "state": "QLD",
+    "postCode": 4627
+  },
+  {
+    "firstName": " Frank",
+    "lastName": "Hayes",
+    "address": "2766 Benson Promenade",
+    "suburb": "KEW",
+    "state": "VIC",
+    "postCode": 3101
+  },
+  {
+    "firstName": " Laura",
+    "lastName": "Palmer",
+    "address": "642 Monaro Parade",
+    "suburb": "SANDY CREEK",
+    "state": "VIC",
+    "postCode": 3695
+  },
+  {
+    "firstName": " Alfred",
+    "lastName": "Pennyworth",
+    "address": "3529 Coolart Chase",
+    "suburb": "CRABOON",
+    "state": "NSW",
+    "postCode": 2844
+  },
+  {
+    "firstName": " Sara",
+    "lastName": "Pezzini",
+    "address": "4555 White Crossing",
+    "suburb": "MOUNT EGERTON",
+    "state": "VIC",
+    "postCode": 3352
+  },
+  {
+    "firstName": " Dinah",
+    "lastName": "Redmond",
+    "address": "1785 Anzac Plaza",
+    "suburb": "SPRING RIDGE",
+    "state": "NSW",
+    "postCode": 2343
+  },
+  {
+    "firstName": " Jesse",
+    "lastName": "Reese",
+    "address": "2900 Fulham Ridge",
+    "suburb": "WINTON",
+    "state": "QLD",
+    "postCode": 4735
+  },
+  {
+    "firstName": " Helena",
+    "lastName": "Wayne",
+    "address": "1603 Egan Crossing",
+    "suburb": "CONGO",
+    "state": "NSW",
+    "postCode": 2537
+  }
+]

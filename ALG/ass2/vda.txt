@@ -1,0 +1,6 @@
+{
+"idmessage":"27301","idsession":"362","time_stamp_system":"2017-01-20 14:51:14","NMEA_string":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx","processed":"1","MMSI":"0000000001","AIS_version":"0","IMO_number":"xxxxxxxxxx","callSign":"ODLK1","name":"ODLXJ KWW","type_of_ship_and_cargo":"0","bow_to_possition_unit":"212","stern_to_possition_unit":"71","port_to_possition_unit":"22","starboard_to_possitio_unit":"22","type_of_position_fixing_divice":"1","ETA":null,
+"destination":"",
+"last_static_draught":"0",
+"DTE":"127"
+}
