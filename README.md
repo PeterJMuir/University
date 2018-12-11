@@ -1,6 +1,6 @@
 ALG: Algorithms and Data Structures (2016)  
 cprog: C Programming for Engineers and Scientists (2015)  
 DBF: Database Fundamentals  (SQL) (2017)  
-OOF: Object-Oriented Programming Fundamentals (Java) (2016)  (assignments explained)
+OOF: Object-Oriented Programming Fundamentals (Java) (2016)  (assignments explained)  
 IOO: Intermediate Object-Oriented Programming (Java) (2017)  
 OAD: Object-Oriented Application Development (Java, JavaFx) (2017)  
