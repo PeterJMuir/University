@@ -1,0 +1,2 @@
+Ass1: A collection of sorters and a program that will sort text files of Receipts and customer numbers.  
+Ass2: (Technical issues) "myShipFinder" finds ships based on name, latitude,longitude and time ranges. Requires text files with ship details and positions.

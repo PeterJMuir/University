@@ -1,0 +1,2 @@
+ass1: Run "Tester" to display a canvas upon which a shape can be displayed.  
+ass2: Improved on Assignment 1. "DrawingBoard" allows the user to create, delete and edit shapes and save the drawing as a text file.
